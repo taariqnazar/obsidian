@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "8afec59467d9876d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9076cf2f1199b1a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c8a5f79e248c91e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MT4007/Lecture 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e90f9f2f9e98da03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MT4007/Lecture 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2c584c4712a591c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MT4007/Lecture 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d74fc77766412447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MT4007/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7083053c2b36bfb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f775ab22bb334c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac778a94245b5afb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad5ed7d11ef782cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "lecture",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd8bb5aee27ae798",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "cbbc53541f0069aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequencyReverse",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "513cd0213c94e1d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d55d1732d9880e59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a345832dc3b3b0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MT4007/Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4a7e23d746f1032",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MT4007/Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93dc3a594cefdd75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MT4007/Overview.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "d74fc77766412447",
+  "lastOpenFiles": [
+    "MT4007/Lecture 1.md",
+    "MT4007/Lecture 6.md",
+    "MT4007/Lecture 5.md",
+    "MT4007/Lecture 4.md",
+    "MT4007/Lecture 3.md",
+    "MT4007/Lecture 2.md",
+    "MT4007/Overview.md",
+    "Untitled 2.md",
+    "MT4007"
+  ]
+}
