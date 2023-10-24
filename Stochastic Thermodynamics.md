@@ -21,4 +21,15 @@ When a system is perturbed by both manipulation and driving, we can study the en
 q_{x x'} = E_{x'} - E_{x} + \delta_{x x'}.
 	$$Where $E_{x'} - E_{x}$ is the energy lost by the system (can be negative, in this case energy is gained by the reservoir) and $\delta_{x' x}$ is the energy instantaneously provided to the system by the external agent. On the timescale of a single jump, the manipulation can be seen as constant throughout the jump. Furthermore, in this timescale the reservoir cannot distinguish between equilibrium and non-equilibrium and therefore even out of equilbrium, the ratio between the jump rates is $$
 \frac{k_{x x'}}{k_{x' x}} = \exp\left( \frac{q_{x x'}}{k_{B}T} \right).
-$$This is called the generalized detailed balance condition. If a systems jump rate satisfy generalized detailed balance it is said to be thermodynamically consistent.
+$$This is called the generalized detailed balance condition. If a systems jump rate satisfy generalized detailed balance it is said to be **thermodynamically consistent**.
+
+# Stochastic Work
+In stochastic thermodynamics, we focus on single trajectories which are naturally stochastic. In this case, the work $w(\mathcal{x})$ for a single trajectory $x$ provided by the external agent is stochastic. When a system is being driven and manipulated the work provided my the external agent is $$
+w(x)= \sum_{k=0}^n \int_{t_{k}}^{t_{k+1}} dt \frac{d \lambda}{dt} \frac{dE_{x_{k}}}{d \lambda} \, dx + \sum_{k=0}^n \delta_{x_{k}x_{k-1}}.
+$$The first part is the work provided by manipulation between consecutive jumps and the last part is the energy provided at jumps. On the timescale of a single jump, the energy provided by manipulation is too small. Therefore the total heat exchanged with the reservoir is $$
+q(x) = \sum_{k=1}^n q_{x_{k}x_{k-1}} = \sum_{k=1}^n (-E_{x_{k}}(t) + E_{x_{k-1}}(t) + \delta_{x_{k}x_{k-1}}).
+$$This gives us that $$
+w(x) - q(x) = E_{x_{f}} - E_{x_{0}}
+$$which we call the **first law of stochastic thermodynamics** since it resembles  the first law of thermodynamics.
+
+
