@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0854143c111adfca",
+        "id": "bd8eabba8f549381",
         "type": "tabs",
         "children": [
           {
-            "id": "6334b67d71544b76",
+            "id": "bc8a008f7c245acb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Thermodynamics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d16e456dacc6b150",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regularizing Trees.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a306cc552b3741b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hypothesis Testing.md",
+                "file": "Gaussian Free Fields.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Thermodynamics.md",
+                "file": "Gaussian Free Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Thermodynamics.md",
+                "file": "Gaussian Free Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Thermodynamics.md"
+                "file": "Gaussian Free Fields.md"
               }
             }
           }
@@ -172,7 +148,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6334b67d71544b76",
+  "active": "bc8a008f7c245acb",
   "lastOpenFiles": [
     "Hypothesis Testing.md",
     "Regularizing Trees.md",

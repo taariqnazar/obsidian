@@ -19,4 +19,7 @@ An important proposition
 ### Proposition
 Let $D$ be a domain with harmonically non-trivial boundary and let $\Phi_{N}$ be defined as above. Then, for any $\rho \in \mathcal{M}$, the limit $$
 (\Phi, \rho) := \lim_{ n \to \infty } (\Phi_{N}, \rho)
-$$exists in $L^2(\mathbb{P})$ and $(\Phi, \rho) \sim  N(0, \Pi(\rho))$.  Look at remark 3.14 and try to construct the Brownian Bridge on the interval mentioned.
+$$exists in $L^2(\mathbb{P})$ and $(\Phi, \rho) \sim  N(0, \Pi(\rho))$.  
+
+- [ ] Look at remark 3.14 and try to construct the Brownian Bridge on the interval mentioned.
+
