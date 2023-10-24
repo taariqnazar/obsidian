@@ -32,4 +32,7 @@ $$This gives us that $$
 w(x) - q(x) = E_{x_{f}} - E_{x_{0}}
 $$which we call the **first law of stochastic thermodynamics** since it resembles  the first law of thermodynamics.
 
+- [ ] What is mean by coarse-graining? and separation between microscopic and mesoscopic states?
+- [ ] I think separation means that the time scale when of jumps and manipulation change are drastically different. That is, manipulation is very slow in comparison to jump scales.
+
 
