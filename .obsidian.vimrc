@@ -1,7 +1,6 @@
-nnoremap <Space> <Nop>
-let mapleader=" "
+map <Space> <Leader>
 
-map i jj<Esc>
+imap jj <Esc>
 
 vmap  <C-j> ":m '>+1<CR>==gv"
 vmap  <C-k> ":m '>-2<CR>==gv"
@@ -13,10 +12,31 @@ nmap L $
 vmap H ^
 vmap L $
 
-keymap("n", "J", "<C-d>zz", opts)
-keymap("n", "K", "<C-u>zz", opts)
-keymap("v", "J", "<C-d>zz", opts)
-keymap("v", "K", "<C-u>zz", opts)
+nmap J <C-d>zz
+nmap K <C-u>zz
+vmap J <C-d>zz
+vmap K <C-u>zz
 
 nmap <leader>o o<Esc>0"_D
 nmap <leader>O O<Esc>0"_D
+
+exmap wq obcommand workspace:close
+exmap q obcommand workspace:close
+
+exmap focusRight obcommand editor:focus-right
+nmap <C-w>l :focusRight
+
+exmap focusLeft obcommand editor:focus-left
+nmap <C-w>h :focusLeft
+
+exmap focusTop obcommand editor:focus-top
+nmap <C-w>k :focusTop
+
+exmap focusBottom obcommand editor:focus-bottom
+nmap <C-w>j :focusBottom
+
+exmap splitVertical obcommand workspace:split-vertical
+nmap <C-w>v :splitVertical
+
+exmap splitHorizontal obcommand workspace:split-horizontal
+nmap <C-w>s :splitHorizontal

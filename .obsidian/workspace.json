@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9076cf2f1199b1a2",
+        "id": "0854143c111adfca",
         "type": "tabs",
         "children": [
           {
-            "id": "6c8a5f79e248c91e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistical Data Analysis MT4007/Lecture 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e90f9f2f9e98da03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistical Data Analysis MT4007/Lecture 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2c584c4712a591c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistical Data Analysis MT4007/Lecture 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d74fc77766412447",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistical Data Analysis MT4007/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff2393d2f647bb9f",
+            "id": "6334b67d71544b76",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d16e456dacc6b150",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regularizing Trees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lecture",
+                "query": "overv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "513cd0213c94e1d5",
@@ -145,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Thermodynamics.md",
+                "file": "Regularizing Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Thermodynamics.md",
+                "file": "Regularizing Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Thermodynamics.md"
+                "file": "Regularizing Trees.md"
               }
             }
           }
@@ -197,20 +161,26 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ac778a94245b5afb",
+  "active": "d16e456dacc6b150",
   "lastOpenFiles": [
-    "~",
     "Stochastic Thermodynamics.md",
-    "Point Proccesses",
-    "Optimal Transport",
+    "Hypothesis Testing.md",
+    "Regularizing Trees.md",
+    "Gaussian Free Fields.md",
+    "Topology.md",
+    "Optimal Transport.md",
+    "Point Processes.md",
     "Statistical Data Analysis MT4007/Overview.md",
-    "Stochastic Thermodynamics",
+    "Statistical Data Analysis MT4007/Lecture 2.md",
     "Statistical Data Analysis MT4007/Lecture 1.md",
-    "Statistical Data Analysis MT4007/Lecture 6.md",
     "Statistical Data Analysis MT4007/Lecture 5.md",
     "Statistical Data Analysis MT4007/Lecture 4.md",
     "Statistical Data Analysis MT4007/Lecture 3.md",
-    "Statistical Data Analysis MT4007/Lecture 2.md",
+    "~",
+    "Point Proccesses",
+    "Optimal Transport",
+    "Stochastic Thermodynamics",
+    "Statistical Data Analysis MT4007/Lecture 6.md",
     "Untitled 2.md",
     "Statistical Data Analysis MT4007"
   ]
