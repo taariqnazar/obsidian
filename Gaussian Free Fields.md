@@ -1,3 +1,8 @@
+```tasks
+not done
+sort by created
+path includes {{query.file.path}}
+```
 Let $C_{0}^{\infty}$ denote the set of smooth functions with compact support inte $D$ and let $H_{0}(D)$ be the [[Hilbert Space]] closure of $C_{0}^{\infty}$ with Dirichlet inner product $$
 \int \frac{1}{2\pi} \nabla f(z) \cdot \nabla g(z)\, dz. 
 $$$H_{0}(D)$ is a [[Topology|seperable]] Hilbert Space.
@@ -23,3 +28,13 @@ $$exists in $L^2(\mathbb{P})$ and $(\Phi, \rho) \sim  N(0, \Pi(\rho))$.
 
 - [ ] Look at remark 3.14 and try to construct the Brownian Bridge on the interval mentioned.
 
+# Regularity in Sobolev spaces with negative index
+Let $D$ be bounded. For $s \in \mathbb{R}$, the Sobolev space $H_{0}^s(D)$ is the Hilbert space completion of $C_{0}^\infty$ with respect to the inner product $$
+(f,g)_{H_{0}^s} := \sum_{n \geq 0} \lambda_{n}^s (f, \psi_{n})(g, \psi_{n}).
+$$**Proposition**
+Suppose $D$ is a bounded domain. Let $(\alpha_{n})_{n \geq 1}$ be i.i.d $N(0,1)$ random variables and $(\phi_{n})_{n \geq 1}$ an orthonormal basis for $H_{0}(D)$. Then the series $\sum_{n \geq 1} \alpha_{n}\phi_{n}$ converges almost surely in $H_{0}^s(D)$ for all $s<0$.
+
+# Conformal invariance of GFF
+asd
+# Markov Property
+saws
