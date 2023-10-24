@@ -35,6 +35,9 @@ $$**Proposition**
 Suppose $D$ is a bounded domain. Let $(\alpha_{n})_{n \geq 1}$ be i.i.d $N(0,1)$ random variables and $(\phi_{n})_{n \geq 1}$ an orthonormal basis for $H_{0}(D)$. Then the series $\sum_{n \geq 1} \alpha_{n}\phi_{n}$ converges almost surely in $H_{0}^s(D)$ for all $s<0$.
 
 # Conformal invariance of GFF
-asd
+Let $\varphi: D \to \tilde{D}$ be a conformal map and $f,g \in C_{0}^\infty(D)$, then, $$
+(f,g)_{\nabla} = (f \circ \varphi^-1, g \circ \varphi^-1)_{\nabla}.
+	$$This implies that if $\Phi = \sum_{n \geq 1} \alpha_{n}\phi_{n}$ is a zero-boundary GFF on $D$, then, $\Phi \circ \varphi^{-1}= \sum_{n \geq 1}\alpha_{n} \phi_{n} \circ \varphi^{-1}$ is a zero-boundary GFF on $\tilde{D}$ and its action as an element of $\mathcal{D}'(\tilde{D})$ is $(\Phi \circ \varphi, f ) = (\Phi, |\varphi'|^2$  
+
 # Markov Property
 saws
