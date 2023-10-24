@@ -1,7 +1,7 @@
-- What is hypothesis testing?
-- How is it performed?
-- How can you multiple test?
-- What is a test Statistic?
-- p-value?
 
-# Bonferoni Error Adjustment
+To perform a hypothesis test we start by formulating a null-hypothesis $H_{0}$ and $H_{1}$  regarding the data we are working with, where $H_{1}$ is the logical negation of $H_{0}$. For instance, $H_{0}:\mu \text{ is constant}$, then naturally $H_{1}: \mu \text{ not constant}$. Then the so called hypothesis test will be to test if $H_{0}$ is true with some certainty $1-\alpha$, where $\alpha$ is a so called significance level. Typically, $\alpha \in \text{\{ } 0.1,0.05,0.001 \text{ \}}$ and so on. In practice one sees and outcome $Z$ from the dataset, states $H_{0}$ and from $H_{0}$ gets a distribution for $Z$ . Using this distriubtion under $H_{0}$, one can calculate the probability of seeing an outcome this extreme. This probability is what we call the $p$-value. If the $p \leq \alpha$ then we reject $H_{0}$ because seeing such an outcome is too extreme under our null hypothesis.
+
+- [ ] Make this test a bit better
+
+# Multiple Testing
+In many experiments one is face with having multiple hypothesis test made simultaneously. In general, they may depend on each other. This problem is called multiple testing. The question posed then is then to state multiple null-hypothesis and set a level of significance for each test such that the significance for the whole experiment is under some $\tilde{\alpha} = \tilde{\alpha}(\alpha_{1},\dots \alpha_{n})$. That is, the significance for the whole test in a function of the significance of each individual test. In the special case where the the test are independent, we get that $\tilde{\alpha}=\alpha_{1}\cdots \alpha_{n}$.

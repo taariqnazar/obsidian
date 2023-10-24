@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a306cc552b3741b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypothesis Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "overv",
+                "query": "tag:#research",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regularizing Trees.md",
+                "file": "Hypothesis Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regularizing Trees.md",
+                "file": "Hypothesis Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regularizing Trees.md"
+                "file": "Hypothesis Testing.md"
               }
             }
           }
@@ -161,11 +173,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d16e456dacc6b150",
+  "active": "4a306cc552b3741b",
   "lastOpenFiles": [
+    "Regularizing Trees.md",
     "Stochastic Thermodynamics.md",
     "Hypothesis Testing.md",
-    "Regularizing Trees.md",
     "Gaussian Free Fields.md",
     "Topology.md",
     "Optimal Transport.md",
