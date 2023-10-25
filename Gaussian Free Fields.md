@@ -36,8 +36,7 @@ Suppose $D$ is a bounded domain. Let $(\alpha_{n})_{n \geq 1}$ be i.i.d $N(0,1)$
 
 # Conformal invariance of GFF
 Let $\varphi: D \to \tilde{D}$ be a conformal map and $f,g \in C_{0}^\infty(D)$, then, $$
-(f,g)_{\nabla} = (f \circ \varphi^-1, g \circ \varphi^-1)_{\nabla}.
-	$$This implies that if $\Phi = \sum_{n \geq 1} \alpha_{n}\phi_{n}$ is a zero-boundary GFF on $D$, then, $\Phi \circ \varphi^{-1}= \sum_{n \geq 1}\alpha_{n} \phi_{n} \circ \varphi^{-1}$ is a zero-boundary GFF on $\tilde{D}$ and its action as an element of $\mathcal{D}'(\tilde{D})$ is $(\Phi \circ \varphi, f ) = (\Phi, |\varphi'|^2$  
-
+(f,g)_{\nabla} = (f \circ \varphi^{-1}, g \circ \varphi^{-1})_{\nabla}.
+$$This implies that if $\Phi = \sum_{n \geq 1} \alpha_{n}\phi_{n}$ is a zero-boundary GFF on $D$, then, $\Phi \circ \varphi^{-1}= \sum_{n \geq 1}\alpha_{n} \phi_{n} \circ \varphi^{-1}$ is a zero-boundary GFF on $\tilde{D}$ and its action as an element of $\mathcal{D}'(\tilde{D})$ is $(\Phi \circ \varphi^{-1}, f ) = (\Phi, |\varphi'|^2(f \circ \varphi ))$ for $f \in C_{0}^\infty(\tilde{D})$. This result tells us that, it is enough to define $\Phi$ in a reference domain and can define it in any conformally equivalent domain.   
 # Markov Property
-saws
+The Markov property of GFF states that a zero-boundary GFF on $D$ can be decomposed in to a zero-boundary GFF restricted on $U \subseteq D$ and a harmonic function, with both terms being independent.
