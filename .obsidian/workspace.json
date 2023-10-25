@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd8eabba8f549381",
+        "id": "eb4501e0fc33b265",
         "type": "tabs",
         "children": [
           {
-            "id": "bc8a008f7c245acb",
+            "id": "62c46be68b359bc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,10 +147,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "93dc3a594cefdd75",
+  "active": "62c46be68b359bc0",
   "lastOpenFiles": [
-    "Regularizing Trees.md",
+    "GFF.md",
     "Gaussian Free Fields.md",
+    "Regularizing Trees.md",
     "Hypothesis Testing.md",
     "Stochastic Thermodynamics.md",
     "Topology.md",
