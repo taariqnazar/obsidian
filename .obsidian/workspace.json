@@ -11,12 +11,47 @@
             "id": "62c46be68b359bc0",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a273d67b32106b5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaussian Free Fields.md",
+                "file": "MT4007/Slides/Lecture 1 Slide.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "88dc7b6ae0ef451f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MT4007/Slides/slide-template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ad8fde649e88d7ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3a8098b2b66bad0",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -96,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaussian Free Fields.md",
+                "file": "MT4007/Slides/Lecture 1 Slide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gaussian Free Fields.md",
+                "file": "MT4007/Slides/Lecture 1 Slide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gaussian Free Fields.md"
+                "file": "MT4007/Slides/Lecture 1 Slide.md"
               }
             }
           }
@@ -134,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,28 +183,33 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "62c46be68b359bc0",
+  "active": "5a273d67b32106b5",
   "lastOpenFiles": [
-    "GFF.md",
+    "MT4007/Slides/slide-template.md",
+    "MT4007/Slides/Lecture 1 Slide.md",
+    "MT4007/Homework 1.md",
+    "MT4007/Lecture 1.md",
+    "MT4007/Slides",
+    "MT4007/Lecture 5.md",
+    "MT4007/Lecture 4.md",
+    "MT4007/Lecture 3.md",
+    "MT4007/Lecture 2.md",
+    "MT4007/Lecture 6.md",
+    "MT4007/Overview.md",
+    "Statistical Data Analysis MT4007/Untitled",
     "Gaussian Free Fields.md",
+    "GFF.md",
     "Regularizing Trees.md",
     "Hypothesis Testing.md",
     "Stochastic Thermodynamics.md",
     "Topology.md",
     "Optimal Transport.md",
     "Point Processes.md",
-    "Statistical Data Analysis MT4007/Overview.md",
-    "Statistical Data Analysis MT4007/Lecture 2.md",
-    "Statistical Data Analysis MT4007/Lecture 1.md",
-    "Statistical Data Analysis MT4007/Lecture 5.md",
-    "Statistical Data Analysis MT4007/Lecture 4.md",
-    "Statistical Data Analysis MT4007/Lecture 3.md",
     "~",
     "Point Proccesses",
     "Optimal Transport",
     "Stochastic Thermodynamics",
-    "Statistical Data Analysis MT4007/Lecture 6.md",
     "Untitled 2.md",
-    "Statistical Data Analysis MT4007"
+    "MT4007"
   ]
 }

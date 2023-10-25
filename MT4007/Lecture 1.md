@@ -1,0 +1,2 @@
+- [ ] Create slide for lecture
+- [ ] Finish Page for Lecture
