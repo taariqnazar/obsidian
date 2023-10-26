@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MT4007/Slides/Lecture 1 Slide.md",
+                "file": "MT4007/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,21 +37,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "ad8fde649e88d7ca",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c3a8098b2b66bad0",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           }
         ]
@@ -131,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MT4007/Slides/Lecture 1 Slide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MT4007/Slides/Lecture 1 Slide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MT4007/Slides/Lecture 1 Slide.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -183,19 +164,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5a273d67b32106b5",
+  "active": "62c46be68b359bc0",
   "lastOpenFiles": [
     "MT4007/Slides/slide-template.md",
+    "MT4007/Overview.md",
+    "MT4007/Project.md",
+    "MT4007/Lecture 1.md",
     "MT4007/Slides/Lecture 1 Slide.md",
     "MT4007/Homework 1.md",
-    "MT4007/Lecture 1.md",
     "MT4007/Slides",
     "MT4007/Lecture 5.md",
     "MT4007/Lecture 4.md",
     "MT4007/Lecture 3.md",
     "MT4007/Lecture 2.md",
     "MT4007/Lecture 6.md",
-    "MT4007/Overview.md",
     "Statistical Data Analysis MT4007/Untitled",
     "Gaussian Free Fields.md",
     "GFF.md",
