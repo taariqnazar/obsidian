@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MT4007/Overview.md",
+                "file": "MT4007/Slides/Lecture 1 Slide.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,6 +37,21 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "badd1aeca6b54720",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1de683313d4af8e0",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -116,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MT4007/Slides/Lecture 1 Slide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MT4007/Slides/Lecture 1 Slide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MT4007/Slides/Lecture 1 Slide.md"
+              }
             }
           }
         ],
@@ -164,14 +183,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "62c46be68b359bc0",
+  "active": "5a273d67b32106b5",
   "lastOpenFiles": [
-    "MT4007/Slides/slide-template.md",
+    "MT4007/Homework 1.md",
+    "Point Processes.md",
     "MT4007/Overview.md",
+    "MT4007/Slides/slide-template.md",
     "MT4007/Project.md",
     "MT4007/Lecture 1.md",
     "MT4007/Slides/Lecture 1 Slide.md",
-    "MT4007/Homework 1.md",
     "MT4007/Slides",
     "MT4007/Lecture 5.md",
     "MT4007/Lecture 4.md",
@@ -186,7 +206,6 @@
     "Stochastic Thermodynamics.md",
     "Topology.md",
     "Optimal Transport.md",
-    "Point Processes.md",
     "~",
     "Point Proccesses",
     "Optimal Transport",
