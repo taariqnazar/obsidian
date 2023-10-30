@@ -1,24 +1,27 @@
 ---
-defaultTemplate: "[[slide-template]]"
-theme: white
+bg: black
+theme: css/my_theme.css
+transition: fade
+transitionSpeed: fast
 ---
-## Statistical Data Analysis HT2023
+# Statistical Data Analysis HT2023
 Taariq Nazar
 
 ---
-Introduction
+# Introduction
+
 
 ---
 ### The Data Science Venn Diagram
 
-<img src="img/Data_Science_VD.png" alt="venn-diagram" width="400px" center/>
+<img src="https://images.squarespace-cdn.com/content/v1/5150aec6e4b0e340ec52710a/1364352051365-HZAS3CLBF7ABLE3F5OBY/Data_Science_VD.png?format=2500w" alt="venn-diagram" width="300px" center/>
 
 Image from: http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram
 
 ---
 ### Statistical Data Analysis
 
-<img src="img/data-science.png" alt="workflow" width="700px" center/>
+<img src="https://d33wubrfki0l68.cloudfront.net/571b056757d68e6df81a3e3853f54d3c76ad6efc/32d37/diagrams/data-science.png" alt="workflow" width="700px" center/>
 
 Image from: https://r4ds.had.co.nz/introduction.html
 
@@ -28,13 +31,13 @@ Image from: https://r4ds.had.co.nz/introduction.html
 - Special tools for working with Big Data
 
 ---
-Course Structure
+# Course Structure
 
 ---
-Course Books
+### Course Books
 
-<img src="img/cover-python.png" alt="python-cover" width="370px"/>
-<img src="img/cover-r.png" alt="r-cover" width="325px"/>
+<img src="https://wesmckinney.com/book/images/cover.png" alt="python-cover" width="370px"/>
+<img src="https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png" alt="r-cover" width="325px"/>
 
 ---
 ### Course structure

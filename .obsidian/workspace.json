@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb4501e0fc33b265",
+        "id": "badd1aeca6b54720",
         "type": "tabs",
         "children": [
           {
-            "id": "62c46be68b359bc0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5a273d67b32106b5",
+            "id": "2c302e7eaf7cdb9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,28 +18,15 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "88dc7b6ae0ef451f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MT4007/Slides/slide-template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "badd1aeca6b54720",
+        "id": "7f9a7825533960f1",
         "type": "tabs",
         "children": [
           {
-            "id": "1de683313d4af8e0",
+            "id": "f2dda6968aa08239",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -183,27 +162,46 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5a273d67b32106b5",
+  "active": "2c302e7eaf7cdb9c",
   "lastOpenFiles": [
-    "MT4007/Slides/img/cover-python.png",
+    "MT4007/Slides/slide-template.md",
     "MT4007/Slides/Lecture 1 Slide.md",
-    "MT4007/Slides/img",
-    "MT4007/Slides/img/cover-r.png",
-    "MT4007/Slides/img/data-science.png",
+    "Untitled.md",
+    "export/Lecture 1 Slide/plugin/chalkboard/README.md",
+    "export/Lecture 1 Slide/plugin/chalkboard/_style.css",
+    "export/Lecture 1 Slide/plugin/chalkboard/img/blackboard.png",
+    "export/Lecture 1 Slide/plugin/chalkboard/img/boardmarker-black.png",
+    "export/Lecture 1 Slide/plugin/chalkboard/img/whiteboard.png",
+    "export/Lecture 1 Slide/plugin/chalkboard/img/sponge.png",
+    "export/Lecture 1 Slide/plugin/chalkboard/img/chalk-yellow.png",
+    "export/Lecture 1 Slide/plugin/chalkboard/img/chalk-white.png",
+    "export/Lecture 1 Slide/plugin/chalkboard/img/chalk-red.png",
+    "export/Lecture 1 Slide/plugin/chalkboard/img/chalk-purple.png",
+    "export/Lecture 1 Slide/plugin/chalkboard/img/chalk-orange.png",
+    "export/Lecture 1 Slide/plugin/chalkboard/img/chalk-green.png",
+    "export/Lecture 1 Slide/plugin/chalkboard/img",
+    "export/Lecture 1 Slide/plugin/chalkboard/style.css",
+    "export/Lecture 1 Slide/plugin/chalkboard/plugin.js",
+    "export/Lecture 1 Slide/plugin/chalkboard/plugin (copy).js",
+    "export/Lecture 1 Slide/plugin/chalkboard",
+    "export/Lecture 1 Slide/plugin/chart/plugin.js",
+    "export/Lecture 1 Slide/plugin/chart/chart.min.js",
+    "export/Lecture 1 Slide/plugin/chart/README.md",
+    "export/Lecture 1 Slide/plugin/chart",
+    "export/Lecture 1 Slide/plugin/customcontrols/plugin.js",
+    "export/Lecture 1 Slide/plugin/customcontrols/README.md",
+    "export/Lecture 1 Slide/plugin/menu/CONTRIBUTING.md",
+    "export/Lecture 1 Slide/plugin/menu/README.md",
     "MT4007/Homework 1.md",
-    "MT4007/Slides/img/Data_Science_VD.png",
     "Point Processes.md",
     "MT4007/Overview.md",
-    "MT4007/Slides/slide-template.md",
     "MT4007/Project.md",
     "MT4007/Lecture 1.md",
-    "MT4007/Slides",
     "MT4007/Lecture 5.md",
     "MT4007/Lecture 4.md",
     "MT4007/Lecture 3.md",
     "MT4007/Lecture 2.md",
     "MT4007/Lecture 6.md",
-    "Statistical Data Analysis MT4007/Untitled",
     "Gaussian Free Fields.md",
     "GFF.md",
     "Regularizing Trees.md",
@@ -211,11 +209,6 @@
     "Stochastic Thermodynamics.md",
     "Topology.md",
     "Optimal Transport.md",
-    "~",
-    "Point Proccesses",
-    "Optimal Transport",
-    "Stochastic Thermodynamics",
-    "Untitled 2.md",
-    "MT4007"
+    "Untitled 2.md"
   ]
 }
