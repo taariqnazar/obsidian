@@ -28,7 +28,7 @@ Image from: https://r4ds.had.co.nz/introduction.html
 ---
 ## What we wont do
 - Regression, Classification, Machine learning, etc...
-- Special tools for working with Big Data
+- Special tools for working with Big Data <!-- element class="fragment" -->
 
 ---
 # Course Structure
@@ -36,51 +36,51 @@ Image from: https://r4ds.had.co.nz/introduction.html
 ---
 ## Course Books
 
-<img src="https://wesmckinney.com/book/images/cover.png" alt="python-cover" width="370px"/>
-<img src="https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png" alt="r-cover" width="325px"/>
+<a href="https://wesmckinney.com/book/"><img src="https://wesmckinney.com/book/images/cover.png" alt="python-cover" width="265px"/></a>
+<a href="https://r4ds.had.co.nz/"><img src="https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png" alt="r-cover" width="232px"/></a>
 
 ---
 ## Course structure
 - Lectures + Demo: Supervision after lectures
-- Examination: 
-	- 6 Homework Assignments
+- Examination: <!-- element class="fragment" -->
+	- 6 Homework Assignments 
 	- Projects + Presentation
 	- Exam
 
 ---
 ## Homework Assignment (3 hp)
 - 6 tasks, solved individually and independently (with limited supervision).
-- Assignment available on Monday morning with hand-in the following Sunday.
-- Mandatory peer review of assignment on Monday morning with deadline the following Wednesday at 18:00.
+- Assignment available on Monday morning with hand-in the following Sunday.<!-- element class="fragment" -->
+- Mandatory peer review of assignment on Monday morning with deadline the following Wednesday at 18:00.<!-- element class="fragment" -->
 
 ---
 
 ## Homework Assignment (3 hp)
 - Pass/Fail
-- All task have to passed to complete the module:
+- All task have to passed to complete the module: <!-- element class="fragment" -->
 	- Missed deadline/failed assignment: Re-examination takes place in February at the earliest.
 
 ---
 
 ## Exam (1.5 hp)
 - Take-home exam. 
-- Examination in January
-- Re-exam in February
-- A-F
+- Examination in January 
+- Re-exam in February <!-- element class="fragment" -->
+- A-F<!-- element class="fragment" -->
 
 ---
 
 ## Project (3 hp, A-F)
 - Illuminates a question using a "unique" data material
-- Think about topics early
-- Short (5 min!) presentation , see timeedit.
+- Think about topics early <!-- element class="fragment" -->
+- Short (5 min!) presentation , see timeedit. <!-- element class="fragment" -->
 
 ---
 
 ## Lectures / Tutorial
 - The lectures are not mandatory, but highly recommended.
-- All the material will be available online. 
-- Traditional Lecture + Tutorial/Demo
+- All the material will be available online.  <!-- element class="fragment" -->
+- Traditional Lecture + Tutorial/Demo <!-- element class="fragment" -->
 
 ---
 # Reproducibility
@@ -88,30 +88,30 @@ Image from: https://r4ds.had.co.nz/introduction.html
 ---
 ## Reproducibility
 - As a statistician/actuary/mathematician, you will do many analyses.
-- You will write reports.
-- Using Excel might be tempting(Cut & Paste)
+- You will write reports. <!-- element class="fragment" -->
+- Using Excel might be tempting(Cut & Paste) <!-- element class="fragment" -->
 
 ---
 
 ## Problems
-- How did you handle missing data (NA/missing values)?
-- How did you transform the data?
-- I don't understand the plot, can you create a table?
-- Can you reproduce the same result a year later?
+- How did you handle missing data (NA/missing values)?<!-- element class="fragment" -->
+- How did you transform the data?<!-- element class="fragment" -->
+- I don't understand the plot, can you create a table?<!-- element class="fragment" -->
+- Can you reproduce the same result a year later?<!-- element class="fragment" -->
 
 ---
 
 ## Reproducible data analysis
--  **Reproducibility**  *is the ability to get the same research results or inferences, based on the raw data and computer programs provided by researchers.* (Wikipedia)
-- You can never guarantee that you are "correct", but you can document what you did
-- The analysis is reproducible.
+-  **Reproducibility**  *is the ability to get the same research results or inferences, based on the raw data and computer programs provided by researchers.* (Wikipedia) 
+- You can never guarantee that you are "correct", but you can document what you did <!-- element class="fragment" -->
+- The analysis is reproducible <!-- element class="fragment" -->
 
 ---
 ## Reproducible data analysis
 - Everything written in code (No cutting & pasting).
-- Portable (The code must be executable, on another computer).
-- Accessible (Others should easily be able to access and reproduce you analysis).
-- Automated from raw data to report (a button press should be enough to generate the final product).
+- Portable (The code must be executable, on another computer) <!-- element class="fragment" -->
+- Accessible (Others should easily be able to access and reproduce you analysis) <!-- element class="fragment" -->
+- Automated from raw data to report (a button press should be enough to generate the final product) <!-- element class="fragment" -->
 
 ---
 # Tools for data analysis
@@ -122,42 +122,43 @@ Image from: https://r4ds.had.co.nz/introduction.html
 - Industry standard.
 ---
 ## Python
-- Jupyter Notebooks
-- Pandas, Numpy & Matplotlib
+- Jupyter Notebooks <!-- element class="fragment" -->
+- Pandas, Numpy & Matplotlib <!-- element class="fragment" -->
 ---
 ## R
-- R Studio / Jupyter Notebooks
-- Tidyverse
+- R Studio / Jupyter Notebooks <!-- element class="fragment" -->
+- Tidyverse <!-- element class="fragment" -->
 
 ---
 ## Reporting
-- Markdown
-
+- Markdown, simple markup language, [Try it out](http://writeme.mattstow.com/)
+- Popular and Simple
+- E.g Obsidian for notetaking, Reveal.js for presentation <!-- element class="fragment" -->
 ---
 
 ## Availability & Accessibility
-- An important aspect of making code accessible is making it readable
-- It is important to use descriptive comments in your code
+- An important aspect of making code accessible is making it readable <!-- element class="fragment" -->
+- It is important to make your code as descriptive as possible. <!-- element class="fragment" -->
 
 ---
 ## Availability & Accessibility
-- Making your code available for others
-- Documenting versions of your code (version control)
-- Github is and established tool for both
+- Making your code available for others <!-- element class="fragment" -->
+- Documenting versions of your code (version control)<!-- element class="fragment" -->
+- Github is and established tool for both <!-- element class="fragment" -->
 
 ---
 ## Git & Github
-- Version control using Git
-- Github is an online repository for sharing (mainly) code
-- Github makes it easy to collaborate on projects
+- Version control using Git <!-- element class="fragment" -->
+- Github is an online repository for sharing (mainly) code<!-- element class="fragment" -->
+- Github makes it easy to collaborate on projects <!-- element class="fragment" -->
 
 ---
 ## What to do if you are stuck
-- *Google* and *Stack Overflow* is your friend
-- Use the moodle page forum
+- *Google* and *Stack Overflow* is your friend 
+- Use the moodle page forum <!-- element class="fragment" -->
 
 ---
 ## Summary
-- Code: Python or R
-- Reporting: Markdown
-- Availability: Github
+- Code: Python or R <!-- element class="fragment" -->
+- Reporting: Markdown <!-- element class="fragment" -->
+- Availability: Github <!-- element class="fragment" -->
