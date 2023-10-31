@@ -11,22 +11,12 @@
             "id": "2c302e7eaf7cdb9c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "9cc36345a6fe63e0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "83f43ab074734b93",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MT4007/Overview.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -106,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MT4007/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MT4007/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MT4007/Overview.md"
+              }
             }
           }
         ],
@@ -156,6 +150,10 @@
   },
   "active": "2c302e7eaf7cdb9c",
   "lastOpenFiles": [
+    "MT4007/Lecture 1.md",
+    "MT4007/Homework 1.md",
+    "MT4007/Overview.md",
+    "MT4007/Project.md",
     "Untitled.canvas",
     "MT4007/Slides/Lecture 1 Slide.md",
     "MT4007/Slides/slide-template.md",
@@ -185,11 +183,7 @@
     "export/Lecture 1 Slide/plugin/customcontrols/README.md",
     "export/Lecture 1 Slide/plugin/menu/CONTRIBUTING.md",
     "export/Lecture 1 Slide/plugin/menu/README.md",
-    "MT4007/Homework 1.md",
     "Point Processes.md",
-    "MT4007/Overview.md",
-    "MT4007/Project.md",
-    "MT4007/Lecture 1.md",
     "MT4007/Lecture 5.md",
     "MT4007/Lecture 4.md",
     "MT4007/Lecture 3.md",
