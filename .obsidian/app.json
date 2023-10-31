@@ -1,6 +1,7 @@
 {
   "vimMode": true,
   "propertiesInDocument": "source",
-  "showLineNumber": true,
-  "autoConvertHtml": true
+  "showLineNumber": false,
+  "autoConvertHtml": true,
+  "livePreview": false
 }

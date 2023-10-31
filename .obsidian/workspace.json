@@ -15,18 +15,18 @@
               "state": {
                 "file": "MT4007/Slides/Lecture 1 Slide.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
         ]
       },
       {
-        "id": "7f9a7825533960f1",
+        "id": "9cc36345a6fe63e0",
         "type": "tabs",
         "children": [
           {
-            "id": "f2dda6968aa08239",
+            "id": "83f43ab074734b93",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "513cd0213c94e1d5",

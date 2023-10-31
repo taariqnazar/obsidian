@@ -14,14 +14,14 @@ Taariq Nazar
 ---
 ## The Data Science Venn Diagram
 
-<img src="https://images.squarespace-cdn.com/content/v1/5150aec6e4b0e340ec52710a/1364352051365-HZAS3CLBF7ABLE3F5OBY/Data_Science_VD.png?format=2500w" alt="venn-diagram" width="300px" center/>
+<img src="https://images.squarespace-cdn.com/content/v1/5150aec6e4b0e340ec52710a/1364352051365-HZAS3CLBF7ABLE3F5OBY/Data_Science_VD.png?format=2500w" alt="venn-diagram" width="350px" style="margin-top:4em;"/>
 
 Image from: http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram
 
 ---
 ## Statistical Data Analysis
 
-<img src="https://d33wubrfki0l68.cloudfront.net/571b056757d68e6df81a3e3853f54d3c76ad6efc/32d37/diagrams/data-science.png" alt="workflow" width="700px" center/>
+<img src="https://d33wubrfki0l68.cloudfront.net/571b056757d68e6df81a3e3853f54d3c76ad6efc/32d37/diagrams/data-science.png" alt="workflow" width="700px" style="margin-top:3em;"/>
 
 Image from: https://r4ds.had.co.nz/introduction.html
 
