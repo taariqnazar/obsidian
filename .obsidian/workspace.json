@@ -11,12 +11,8 @@
             "id": "2c302e7eaf7cdb9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MT4007/Slides/Lecture 1 Slide.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -94,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "513cd0213c94e1d5",
@@ -111,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MT4007/Slides/Lecture 1 Slide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MT4007/Slides/Lecture 1 Slide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MT4007/Slides/Lecture 1 Slide.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -165,8 +156,9 @@
   },
   "active": "2c302e7eaf7cdb9c",
   "lastOpenFiles": [
-    "MT4007/Slides/slide-template.md",
+    "Untitled.canvas",
     "MT4007/Slides/Lecture 1 Slide.md",
+    "MT4007/Slides/slide-template.md",
     "Untitled.md",
     "export/Lecture 1 Slide/plugin/chalkboard/README.md",
     "export/Lecture 1 Slide/plugin/chalkboard/_style.css",
@@ -209,7 +201,6 @@
     "Hypothesis Testing.md",
     "Stochastic Thermodynamics.md",
     "Topology.md",
-    "Optimal Transport.md",
-    "Untitled 2.md"
+    "Optimal Transport.md"
   ]
 }
