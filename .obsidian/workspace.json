@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MT4007/Overview.md",
+                "file": "Hypothesis Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MT4007/Overview.md",
+                "file": "Hypothesis Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MT4007/Overview.md",
+                "file": "Hypothesis Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MT4007/Overview.md"
+                "file": "Hypothesis Testing.md"
               }
             }
           }
@@ -148,11 +148,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2c302e7eaf7cdb9c",
+  "active": "ac778a94245b5afb",
   "lastOpenFiles": [
+    "Gaussian Free Fields.md",
+    "homework/1.md",
+    "homework",
+    "MT4007/Overview.md",
     "MT4007/Lecture 1.md",
     "MT4007/Homework 1.md",
-    "MT4007/Overview.md",
     "MT4007/Project.md",
     "Untitled.canvas",
     "MT4007/Slides/Lecture 1 Slide.md",
@@ -179,7 +182,6 @@
     "export/Lecture 1 Slide/plugin/chart/chart.min.js",
     "export/Lecture 1 Slide/plugin/chart/README.md",
     "export/Lecture 1 Slide/plugin/chart",
-    "export/Lecture 1 Slide/plugin/customcontrols/plugin.js",
     "export/Lecture 1 Slide/plugin/customcontrols/README.md",
     "export/Lecture 1 Slide/plugin/menu/CONTRIBUTING.md",
     "export/Lecture 1 Slide/plugin/menu/README.md",
@@ -189,7 +191,6 @@
     "MT4007/Lecture 3.md",
     "MT4007/Lecture 2.md",
     "MT4007/Lecture 6.md",
-    "Gaussian Free Fields.md",
     "GFF.md",
     "Regularizing Trees.md",
     "Hypothesis Testing.md",
