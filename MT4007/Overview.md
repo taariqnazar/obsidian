@@ -21,4 +21,4 @@ This are the notes and information about the course MT4007 Statistical Data Anal
 # Project
 - [ ] Create presentation description
 # Exam
-- [ ] Add info about exam 
+- [x] Add info about exam ✅ 2023-11-02
