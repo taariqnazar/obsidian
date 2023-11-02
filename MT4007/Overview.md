@@ -10,6 +10,7 @@ This are the notes and information about the course MT4007 Statistical Data Anal
 - [ ] Add all the titles for the schedule 
 - [ ] Add all the titles for the homework 
 - [ ] Add more general info about the course on main page, grading ec
+- [ ] Code from Lectures using Github
 # Lectures
 - [ ] Create page for lecture 2
 - [ ] Create lecture Slide
