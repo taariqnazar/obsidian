@@ -7,7 +7,7 @@ path includes {{query.file.root}}
 This are the notes and information about the course MT4007 Statistical Data Analysis given at SU. The course consists of a the following things
 
 # MISC Todo
-- [ ] Add all the titles for the schedule 
+- [x] Add all the titles for the schedule ✅ 2023-11-04
 - [ ] Add all the titles for the homework 
 - [ ] Tabs for code in slides
 # Lectures
