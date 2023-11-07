@@ -75,6 +75,7 @@ image from: [the turing way](https://the-turing-way.netlify.app/reproducible-res
 - Selecting
 - Filtering
 - Mutating
+- Grouping
 ---
 ## Summary
 - Extended git functionality
