@@ -3,6 +3,6 @@
   "propertiesInDocument": "source",
   "showLineNumber": false,
   "autoConvertHtml": true,
-  "livePreview": false,
+  "livePreview": true,
   "readableLineLength": false
 }

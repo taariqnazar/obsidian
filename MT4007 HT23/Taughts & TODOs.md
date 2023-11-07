@@ -8,16 +8,16 @@ This are the notes and information about the course MT4007 Statistical Data Anal
 
 # MISC Todo
 - [x] Add all the titles for the schedule ✅ 2023-11-04
-- [ ] Add all the titles for the homework 
-- [ ] Tabs for code in slides
+- [x] Add all the titles for the homework 
+- [x] Tabs for code in slides
 # Lectures
-- [ ] Create page for lecture 2
-- [ ] Create lecture Slide
-- [ ] Reading directions 
+- [x] Create page for lecture 2
+- [x] Create lecture Slide
+- [x ] Reading directions 
 - [ ] Add slides
 # Homework
-- [ ] Create homework 2
+- [x] Create homework 2
 # Project
 - [ ] Create presentation description
 # Exam
-- [x] Add info about exam ✅ 2023-11-02
+- [] Add info about exam ✅ 2023-11-02

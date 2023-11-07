@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7485f252272dcd46",
+        "id": "4785b0501e4ee13e",
         "type": "tabs",
         "children": [
           {
-            "id": "7871b2c75d0e5cac",
+            "id": "705174387f728051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MT4007 HT23/Lecture 2 Slide.md",
+                "file": "MT4007 HT23/Taughts & TODOs.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "84e83a1ffb8b7ba6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "39ab33705f5bbaf2",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           }
         ]
@@ -94,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "513cd0213c94e1d5",
@@ -111,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MT4007 HT23/Lecture 2 Slide.md",
+                "file": "MT4007 HT23/Taughts & TODOs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MT4007 HT23/Lecture 2 Slide.md",
+                "file": "MT4007 HT23/Taughts & TODOs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MT4007 HT23/Lecture 2 Slide.md"
+                "file": "MT4007 HT23/Taughts & TODOs.md"
               }
             }
           }
@@ -163,11 +148,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7871b2c75d0e5cac",
+  "active": "705174387f728051",
   "lastOpenFiles": [
+    "MT4007 HT23/img/cover-python.png",
+    "MT4007 HT23/Lecture 2 Slide.md",
     "MT4007 HT23/img/ignore.png",
     "MT4007 HT23/img/gitignore.png",
-    "MT4007 HT23/Lecture 2 Slide.md",
     "MT4007 HT23/Lecture 1 Slide.md",
     "MT4007 HT23/Taughts & TODOs.md",
     "MT4007 HT23/Project.md",
