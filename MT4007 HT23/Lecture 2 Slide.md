@@ -4,7 +4,7 @@ theme: css/my_theme.css
 transition: fade
 transitionSpeed: fast
 ---
-# Statistical Data Analysis HT2023 
+# Statistical Data Processing HT2023 
 **Lecture 2**
 
 Taariq Nazar
