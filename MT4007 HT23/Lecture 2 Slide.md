@@ -10,7 +10,8 @@ transitionSpeed: fast
 Taariq Nazar
 
 ---
-## Overview
+## Overview 
+
 - Git
 	- .gitignore
 	- Branching
@@ -36,10 +37,8 @@ Taariq Nazar
 - Making use of and contributing to the open source community
 - [Example](https://github.com/torvalds/linux)
 
-
-![image](https://rietta.com/blog/why-git-fork/rietta-git-fork.png)<!-- element style="margin-top:8em;" -->
+![image](https://rietta.com/blog/why-git-fork/rietta-git-fork.png)<!-- element style="margin-top:10em;margin-bottom:-2em;" -->
 Image from :https://rietta.com/blog/why-git-fork/ 
-
 
 ---
 ## Cloning
@@ -49,10 +48,35 @@ Image from :https://rietta.com/blog/why-git-fork/
 ---
 ## Branching
 
+- Creating a new feature, without changing the original code
+
+![git-branching](https://the-turing-way.netlify.app/_images/sub-branch.png) <!-- element style="width:600px;margin-top:7em;" -->
+
+image from: [the turing way](https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-git-branches.html).
+ 
 ---
 # Data Tables
 ---
 ## Dataframes
+- Dataframes: **Data structured into a table**
+- Easier to read and work with data.
+- E.g
+
+| Name                | Age | Height(cm) | Occupation | Id |
+|---------------------|-----|------------|------------|----|
+| Taariq Nazar        | 26  | 187        | Phd        | 0  |
+| Someone Cooler      | 27  | 188        | Proffesor  | 1  |
+| Someone Even Cooler | 28  | 189        | Emeritus   | 2  |
+| Someone so cool     | 26  | 179        | Plumber    | 3  |
 
 ---
 ## Operations on dataframes
+- Sorting
+- Selecting
+- Filtering
+- Mutating
+---
+## Summary
+- Extended git functionality
+- Working with dataframes
+- Read more on the course website!
