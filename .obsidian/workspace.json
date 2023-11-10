@@ -11,7 +11,25 @@
             "id": "705174387f728051",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "MT4007 HT23/Lecture 3 Slide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "85fad16b87ecae79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe8aa4994db1efe9",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
               "state": {}
             }
           }
@@ -92,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MT4007 HT23/Lecture 3 Slide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MT4007 HT23/Lecture 3 Slide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MT4007 HT23/Lecture 3 Slide.md"
+              }
             }
           }
         ],
@@ -142,12 +164,15 @@
   },
   "active": "705174387f728051",
   "lastOpenFiles": [
+    "MT4007 HT23/Lecture 2 Slide.md",
+    "MT4007 HT23/Lecture 3 Slide.md",
+    "MT4007 HT23/img/sin_example.png",
+    "MT4007 HT23/img/bar_example.png",
+    "MT4007 HT23/Lecture 1 Slide.md",
     "MT4007 HT23/Taughts & TODOs.md",
     "MT4007 HT23/img/cover-python.png",
-    "MT4007 HT23/Lecture 2 Slide.md",
     "MT4007 HT23/img/ignore.png",
     "MT4007 HT23/img/gitignore.png",
-    "MT4007 HT23/Lecture 1 Slide.md",
     "MT4007 HT23/Project.md",
     "MT4007 HT23/Homework 1.md",
     "MT4007 HT23/Lecture 2.md",
@@ -166,8 +191,6 @@
     "export/Lecture 1 Slide/plugin/chalkboard/img/whiteboard.png",
     "export/Lecture 1 Slide/plugin/chalkboard/img/sponge.png",
     "export/Lecture 1 Slide/plugin/chalkboard/img/chalk-yellow.png",
-    "export/Lecture 1 Slide/plugin/chalkboard/img/chalk-white.png",
-    "export/Lecture 1 Slide/plugin/chalkboard/img/chalk-red.png",
     "export/Lecture 1 Slide/plugin/chalkboard/img",
     "export/Lecture 1 Slide/plugin/chalkboard/style.css",
     "export/Lecture 1 Slide/plugin/chalkboard/plugin.js",
@@ -186,7 +209,6 @@
     "MT4007/Lecture 3.md",
     "MT4007/Lecture 6.md",
     "GFF.md",
-    "Regularizing Trees.md",
-    "Stochastic Thermodynamics.md"
+    "Regularizing Trees.md"
   ]
 }
