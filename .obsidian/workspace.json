@@ -4,32 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4785b0501e4ee13e",
+        "id": "618f41f1a00543d1",
         "type": "tabs",
         "children": [
           {
-            "id": "705174387f728051",
+            "id": "a299548321340217",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MT4007 HT23/Lecture 3 Slide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "85fad16b87ecae79",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fe8aa4994db1efe9",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
+              "type": "empty",
               "state": {}
             }
           }
@@ -162,7 +144,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "705174387f728051",
+  "active": "ac778a94245b5afb",
   "lastOpenFiles": [
     "MT4007 HT23/img/goog_trend.png",
     "MT4007 HT23/Lecture 2 Slide.md",
