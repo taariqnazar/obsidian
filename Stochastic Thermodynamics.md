@@ -36,3 +36,43 @@ $$which we call the **first law of stochastic thermodynamics** since it resemble
 - [ ] I think separation means that the time scale when of jumps and manipulation change are drastically different. That is, manipulation is very slow in comparison to jump scales.
 
 
+# Stochastic Entropy 
+Since we associate the uncertainty of a distribution $p_x(t)$ over mesostates with the Shannon entropy 
+$$H[\mathcal{S(t)}] = - \sum_{x} p_{x}(t)\ln p_{x}(t)$$ 
+we can assign the system the *nonequilibrium entropy* at time $t$ as 
+$$
+S^{sys}(t) = -k_{b}H[\mathcal{S(t)}].
+$$
+This makes sense. In the case we are in equilibrium, we assume that all states are equally probable and we then get the familiar result
+$$
+S^{sys}(t) = -k_{b}\Omega,
+$$
+where, $\Omega$ is the number of possible states.
+
+Now, we can define the **stochastic entropy** as
+$$ 
+s^{sys}_{x}(t) = -k_{b}\ln p_{x}(t).
+$$
+Naturally, we get that the nonequilibrium entropy defined above is the average of the stochastic entropy over each state. Similarly, we define the stochastic entropy at time $t$ for a  trajectory $\mathbf{x} = (x(t))$ as 
+$$
+s^{sys}_{x_(t)}(t) = -k_{b}\ln p_{x(t)}(t).
+$$
+Note that these two describe two different things. One is the entropy being in a state $x$ at time $t$ and the other is related to the trajectory.
+
+The total *stochastic* entropy change in the total system is 
+$$
+s^{tot}(\mathbf{x}) = \Delta s^{sys} + s^{res}(\mathbf{x}).
+$$
+The change in entropy is path dependent since the entropy change of the reservoir is path dependent. The entropy change in the system only depends on initial and final configurations. That is, 
+$$
+\Delta s^{sys} = s^{sys}_{x_{f}}(t_{f}) - s^{sys}_{x_{0}}(t_{0}).
+$$
+Furthermore, the entropy change in the reservoir is 
+$$
+s^{res} = \frac{q(\mathbf{x})}{ T },
+$$
+where $q(\mathbf{x})$ is the total heat exchange with the reservoir through the trajectory $q(\mathbf{x})$.  
+
+An interesting observation is that, through defining specific jump rates $k_{..}$, without relating them to the energies of states we will get quantities $q, s, w$ that do not have the physical interpretation of heat, entropy and work but that act in a similar manner.  This is show in section 3.7 in the course book. How can one interpret these quantities then? 
+
+

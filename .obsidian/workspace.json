@@ -11,8 +11,12 @@
             "id": "a299548321340217",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Stochastic Thermodynamics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MT4007 HT23/Lecture 3 Slide.md",
+                "file": "Stochastic Thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MT4007 HT23/Lecture 3 Slide.md",
+                "file": "Stochastic Thermodynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MT4007 HT23/Lecture 3 Slide.md"
+                "file": "Stochastic Thermodynamics.md"
               }
             }
           }
@@ -146,6 +150,7 @@
   },
   "active": "ac778a94245b5afb",
   "lastOpenFiles": [
+    "Stochastic Thermodynamics.md",
     "MT4007 HT23/img/goog_trend.png",
     "MT4007 HT23/Lecture 2 Slide.md",
     "MT4007 HT23/Lecture 3 Slide.md",
@@ -173,7 +178,6 @@
     "export/Lecture 1 Slide/plugin/chalkboard/img/boardmarker-black.png",
     "export/Lecture 1 Slide/plugin/chalkboard/img/whiteboard.png",
     "export/Lecture 1 Slide/plugin/chalkboard/img/sponge.png",
-    "export/Lecture 1 Slide/plugin/chalkboard/img/chalk-yellow.png",
     "export/Lecture 1 Slide/plugin/chalkboard/img",
     "export/Lecture 1 Slide/plugin/chalkboard/style.css",
     "export/Lecture 1 Slide/plugin/chalkboard/plugin.js",
