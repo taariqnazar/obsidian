@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MT4007 HT23/Lecture 7 Slide.md",
+                "file": "Stochastic Thermodynamics.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MT4007 HT23/Lecture 7 Slide.md",
+                "file": "Stochastic Thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MT4007 HT23/Lecture 7 Slide.md",
+                "file": "Stochastic Thermodynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MT4007 HT23/Lecture 7 Slide.md"
+                "file": "Stochastic Thermodynamics.md"
               }
             }
           }
@@ -164,12 +164,16 @@
   },
   "active": "a299548321340217",
   "lastOpenFiles": [
+    "Regularizing Trees.md",
+    "Stochastic Thermodynamics.md",
+    "Point Processes.md",
+    "Optimal Transport.md",
+    "Hypothesis Testing.md",
+    "MT4007 HT23/Lecture 7 Slide.md",
     "MT4007 HT23/Lecture 1 Slide.md",
     "MT4007 HT23/Lecture 2 Slide.md",
     "MT4007 HT23/Lecture 3 Slide.md",
-    "MT4007 HT23/Lecture 7 Slide.md",
     "Gaussian Free Fields.md",
-    "Stochastic Thermodynamics.md",
     "MT4007 HT23/img/goog_trend.png",
     "MT4007 HT23/img/sin_example.png",
     "MT4007 HT23/img/bar_example.png",
@@ -181,7 +185,6 @@
     "MT4007 HT23/Homework 1.md",
     "MT4007 HT23/Lecture 2.md",
     "MT4007 HT23/Lecture 1.md",
-    "Hypothesis Testing.md",
     "homework/1.md",
     "homework",
     "Untitled.canvas",
@@ -205,11 +208,8 @@
     "export/Lecture 1 Slide/plugin/customcontrols/README.md",
     "export/Lecture 1 Slide/plugin/menu/CONTRIBUTING.md",
     "export/Lecture 1 Slide/plugin/menu/README.md",
-    "Point Processes.md",
     "MT4007/Lecture 5.md",
     "MT4007/Lecture 4.md",
-    "MT4007/Lecture 3.md",
-    "MT4007/Lecture 6.md",
-    "GFF.md"
+    "MT4007/Lecture 3.md"
   ]
 }
