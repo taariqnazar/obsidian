@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Thermodynamics.md",
+                "file": "MT4007 HT23/Lecture 7 Slide.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "49ef5e2c9e6be072",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcd7788c3a7d5131",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Thermodynamics.md",
+                "file": "MT4007 HT23/Lecture 7 Slide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Thermodynamics.md",
+                "file": "MT4007 HT23/Lecture 7 Slide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Thermodynamics.md"
+                "file": "MT4007 HT23/Lecture 7 Slide.md"
               }
             }
           }
@@ -148,15 +162,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ac778a94245b5afb",
+  "active": "a299548321340217",
   "lastOpenFiles": [
+    "MT4007 HT23/Lecture 3 Slide.md",
+    "MT4007 HT23/Lecture 1 Slide.md",
+    "MT4007 HT23/Lecture 7 Slide.md",
+    "MT4007 HT23/Lecture 2 Slide.md",
+    "Gaussian Free Fields.md",
     "Stochastic Thermodynamics.md",
     "MT4007 HT23/img/goog_trend.png",
-    "MT4007 HT23/Lecture 2 Slide.md",
-    "MT4007 HT23/Lecture 3 Slide.md",
     "MT4007 HT23/img/sin_example.png",
     "MT4007 HT23/img/bar_example.png",
-    "MT4007 HT23/Lecture 1 Slide.md",
     "MT4007 HT23/Taughts & TODOs.md",
     "MT4007 HT23/img/cover-python.png",
     "MT4007 HT23/img/ignore.png",
@@ -166,7 +182,6 @@
     "MT4007 HT23/Lecture 2.md",
     "MT4007 HT23/Lecture 1.md",
     "Hypothesis Testing.md",
-    "Gaussian Free Fields.md",
     "homework/1.md",
     "homework",
     "Untitled.canvas",
@@ -195,7 +210,6 @@
     "MT4007/Lecture 4.md",
     "MT4007/Lecture 3.md",
     "MT4007/Lecture 6.md",
-    "GFF.md",
-    "Regularizing Trees.md"
+    "GFF.md"
   ]
 }
