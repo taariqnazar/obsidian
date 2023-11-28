@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Thermodynamics.md",
+                "file": "MT4007 HT23/Lecture 8 Slide.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "00d0ab23db17cfb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e7be4525610818e",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Thermodynamics.md",
+                "file": "MT4007 HT23/Lecture 8 Slide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Thermodynamics.md",
+                "file": "MT4007 HT23/Lecture 8 Slide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Thermodynamics.md"
+                "file": "MT4007 HT23/Lecture 8 Slide.md"
               }
             }
           }
@@ -150,12 +164,13 @@
   },
   "active": "a299548321340217",
   "lastOpenFiles": [
-    "Regularizing Trees.md",
+    "MT4007 HT23/Lecture 7 Slide.md",
+    "MT4007 HT23/Lecture 8 Slide.md",
     "Stochastic Thermodynamics.md",
+    "Regularizing Trees.md",
     "Point Processes.md",
     "Optimal Transport.md",
     "Hypothesis Testing.md",
-    "MT4007 HT23/Lecture 7 Slide.md",
     "MT4007 HT23/Lecture 1 Slide.md",
     "MT4007 HT23/Lecture 2 Slide.md",
     "MT4007 HT23/Lecture 3 Slide.md",
@@ -195,7 +210,6 @@
     "export/Lecture 1 Slide/plugin/menu/CONTRIBUTING.md",
     "export/Lecture 1 Slide/plugin/menu/README.md",
     "MT4007/Lecture 5.md",
-    "MT4007/Lecture 4.md",
-    "MT4007/Lecture 3.md"
+    "MT4007/Lecture 4.md"
   ]
 }
