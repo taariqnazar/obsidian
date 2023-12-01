@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MT4007 HT23/Lecture 8 Slide.md",
+                "file": "MT4007 HT23/Lecture 9 Slide.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "00d0ab23db17cfb9",
+        "id": "b53bdcdadd7f70c7",
         "type": "tabs",
         "children": [
           {
-            "id": "7e7be4525610818e",
+            "id": "8ddd2960cc7d298f",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MT4007 HT23/Lecture 8 Slide.md",
+                "file": "MT4007 HT23/Lecture 9 Slide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MT4007 HT23/Lecture 8 Slide.md",
+                "file": "MT4007 HT23/Lecture 9 Slide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MT4007 HT23/Lecture 8 Slide.md"
+                "file": "MT4007 HT23/Lecture 9 Slide.md"
               }
             }
           }
@@ -164,8 +164,9 @@
   },
   "active": "a299548321340217",
   "lastOpenFiles": [
-    "MT4007 HT23/Lecture 7 Slide.md",
     "MT4007 HT23/Lecture 8 Slide.md",
+    "MT4007 HT23/Lecture 9 Slide.md",
+    "MT4007 HT23/Lecture 7 Slide.md",
     "Stochastic Thermodynamics.md",
     "Regularizing Trees.md",
     "Point Processes.md",
@@ -209,7 +210,6 @@
     "export/Lecture 1 Slide/plugin/customcontrols/README.md",
     "export/Lecture 1 Slide/plugin/menu/CONTRIBUTING.md",
     "export/Lecture 1 Slide/plugin/menu/README.md",
-    "MT4007/Lecture 5.md",
-    "MT4007/Lecture 4.md"
+    "MT4007/Lecture 5.md"
   ]
 }
