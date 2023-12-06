@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "618f41f1a00543d1",
+        "id": "300bb64834138134",
         "type": "tabs",
         "children": [
           {
-            "id": "a299548321340217",
+            "id": "1b5d50f4ae0a68a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MT4007 HT23/Lecture 10 Slide.md",
+                "file": "Stochastic Thermodynamics.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4fb688ecb97a0bd6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "825d4f4b295c5ad2",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           }
         ]
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MT4007 HT23/Lecture 10 Slide.md",
+                "file": "Stochastic Thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MT4007 HT23/Lecture 10 Slide.md",
+                "file": "Stochastic Thermodynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MT4007 HT23/Lecture 10 Slide.md"
+                "file": "Stochastic Thermodynamics.md"
               }
             }
           }
@@ -162,21 +148,21 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a299548321340217",
+  "active": "1b5d50f4ae0a68a3",
   "lastOpenFiles": [
-    "MT4007 HT23/Lecture 8 Slide.md",
-    "MT4007 HT23/Lecture 9 Slide.md",
-    "MT4007 HT23/Lecture 10 Slide.md",
-    "MT4007 HT23/Lecture 7 Slide.md",
-    "Stochastic Thermodynamics.md",
     "Regularizing Trees.md",
+    "Stochastic Thermodynamics.md",
     "Point Processes.md",
     "Optimal Transport.md",
     "Hypothesis Testing.md",
+    "Gaussian Free Fields.md",
+    "MT4007 HT23/Lecture 10 Slide.md",
+    "MT4007 HT23/Lecture 8 Slide.md",
+    "MT4007 HT23/Lecture 9 Slide.md",
+    "MT4007 HT23/Lecture 7 Slide.md",
     "MT4007 HT23/Lecture 1 Slide.md",
     "MT4007 HT23/Lecture 2 Slide.md",
     "MT4007 HT23/Lecture 3 Slide.md",
-    "Gaussian Free Fields.md",
     "MT4007 HT23/img/goog_trend.png",
     "MT4007 HT23/img/sin_example.png",
     "MT4007 HT23/img/bar_example.png",
