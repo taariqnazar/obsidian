@@ -1,4 +1,4 @@
-# Chapter 3
+- [ ] # Chapter 3
 In this theory we focus on systems that are in **mesostates** identified by a parameter $x$. One can view mesostates as systems in between micro and macro, where in general, some form of coarse-graining has been done on the the microscopic system. An example of a mesostate is the state of a collection of molecules for instance. 
 
 We assume that our mesostate from equilibrium comes into contact with a heat reservoir. The idea is of the theory is to assume that such interacions are stochastic.
