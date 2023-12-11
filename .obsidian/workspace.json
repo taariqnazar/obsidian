@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56e4d3c46a277620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gaussian Free Fields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Thermodynamics.md",
+                "file": "Gaussian Free Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Thermodynamics.md",
+                "file": "Gaussian Free Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Thermodynamics.md"
+                "file": "Gaussian Free Fields.md"
               }
             }
           }
@@ -148,14 +161,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1b5d50f4ae0a68a3",
+  "active": "56e4d3c46a277620",
   "lastOpenFiles": [
-    "Regularizing Trees.md",
     "Stochastic Thermodynamics.md",
+    "Gaussian Free Fields.md",
+    "Untitled.md",
+    "Hypothesis Testing.md",
+    "Abstract Algebra.md",
+    "Regularizing Trees.md",
     "Point Processes.md",
     "Optimal Transport.md",
-    "Hypothesis Testing.md",
-    "Gaussian Free Fields.md",
     "MT4007 HT23/Lecture 10 Slide.md",
     "MT4007 HT23/Lecture 8 Slide.md",
     "MT4007 HT23/Lecture 9 Slide.md",
@@ -178,7 +193,6 @@
     "homework",
     "Untitled.canvas",
     "MT4007/Slides/slide-template.md",
-    "Untitled.md",
     "export/Lecture 1 Slide/plugin/chalkboard/README.md",
     "export/Lecture 1 Slide/plugin/chalkboard/_style.css",
     "export/Lecture 1 Slide/plugin/chalkboard/img/blackboard.png",
@@ -195,7 +209,6 @@
     "export/Lecture 1 Slide/plugin/chart/README.md",
     "export/Lecture 1 Slide/plugin/chart",
     "export/Lecture 1 Slide/plugin/customcontrols/README.md",
-    "export/Lecture 1 Slide/plugin/menu/CONTRIBUTING.md",
-    "export/Lecture 1 Slide/plugin/menu/README.md"
+    "export/Lecture 1 Slide/plugin/menu/CONTRIBUTING.md"
   ]
 }
