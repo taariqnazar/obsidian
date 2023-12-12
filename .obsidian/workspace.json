@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaussian Free Fields.md",
+                "file": "MT4007 HT23/Lecture 11 Project Exam.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +33,20 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "d8be99aee1b55804",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe90d8a2b04d4dab",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaussian Free Fields.md",
+                "file": "MT4007 HT23/Lecture 11 Project Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gaussian Free Fields.md",
+                "file": "MT4007 HT23/Lecture 11 Project Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gaussian Free Fields.md"
+                "file": "MT4007 HT23/Lecture 11 Project Exam.md"
               }
             }
           }
@@ -163,15 +177,16 @@
   },
   "active": "56e4d3c46a277620",
   "lastOpenFiles": [
-    "Stochastic Thermodynamics.md",
+    "MT4007 HT23/Lecture 10 Slide.md",
+    "MT4007 HT23/Lecture 11 Project Exam.md",
     "Gaussian Free Fields.md",
+    "Stochastic Thermodynamics.md",
     "Untitled.md",
     "Hypothesis Testing.md",
     "Abstract Algebra.md",
     "Regularizing Trees.md",
     "Point Processes.md",
     "Optimal Transport.md",
-    "MT4007 HT23/Lecture 10 Slide.md",
     "MT4007 HT23/Lecture 8 Slide.md",
     "MT4007 HT23/Lecture 9 Slide.md",
     "MT4007 HT23/Lecture 7 Slide.md",
@@ -208,7 +223,6 @@
     "export/Lecture 1 Slide/plugin/chart/chart.min.js",
     "export/Lecture 1 Slide/plugin/chart/README.md",
     "export/Lecture 1 Slide/plugin/chart",
-    "export/Lecture 1 Slide/plugin/customcontrols/README.md",
-    "export/Lecture 1 Slide/plugin/menu/CONTRIBUTING.md"
+    "export/Lecture 1 Slide/plugin/customcontrols/README.md"
   ]
 }
