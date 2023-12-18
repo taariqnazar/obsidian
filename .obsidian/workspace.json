@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "455cbb89bb8d17bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to do proofs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "513cd0213c94e1d5",
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Thermodynamics.md",
+                "file": "How to do proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Thermodynamics.md",
+                "file": "How to do proofs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Thermodynamics.md"
+                "file": "How to do proofs.md"
               }
             }
           }
@@ -148,13 +162,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1b5d50f4ae0a68a3",
+  "active": "455cbb89bb8d17bb",
   "lastOpenFiles": [
+    "Stochastic Thermodynamics.md",
+    "How to do proofs.md",
     "MT4007 HT23/Lecture 11 Project Exam.md",
     "MT4007 HT23/Lecture 10 Slide.md",
     "Gaussian Free Fields.md",
-    "Stochastic Thermodynamics.md",
-    "Untitled.md",
     "Hypothesis Testing.md",
     "Abstract Algebra.md",
     "Regularizing Trees.md",
