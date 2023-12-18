@@ -13,4 +13,5 @@ Can be broke down into
 	P or Q.
 	Not Q.
 	Therefore, P.
- 
+
+ If we have the premis P,Q,... We can create a truth table to check all the scenarios.
