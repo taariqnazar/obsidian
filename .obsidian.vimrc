@@ -7,10 +7,13 @@ vmap  <C-k> ":m '>-2<CR>==gv"
 
 nmap <C-p> "cw<C-r>0<Esc>"
 
-nmap H ^
-nmap L $
-vmap H ^
-vmap L $
+nmap j gj
+nmap k gk
+nmap H g0
+nmap L g$
+
+vmap j gj
+vmap k gk
 
 nmap J <C-d>zz
 nmap K <C-u>zz

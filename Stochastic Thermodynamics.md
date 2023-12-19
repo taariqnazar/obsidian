@@ -1,7 +1,8 @@
-- [ ] # Chapter 3
-In this theory we focus on systems that are in **mesostates** identified by a parameter $x$. One can view mesostates as systems in between micro and macro, where in general, some form of coarse-graining has been done on the the microscopic system. An example of a mesostate is the state of a collection of molecules for instance. 
+# Chapter 3
 
-We assume that our mesostate from equilibrium comes into contact with a heat reservoir. The idea is of the theory is to assume that such interacions are stochastic.
+In this theory we focus on systems that are in **meso-states** identified by a parameter $x$. One can view meso-states as systems in between micro and macro, where in general, some form of coarse-graining has been done on the the microscopic system. An example of a meso-states is the state of a collection of molecules for instance. 
+
+We assume that our meso-state from equilibrium comes into contact with a heat reservoir. The idea is of the theory is to assume that such interactions are stochastic.
 
 If we introduce a probability distribution $p_{x}(t)$ of finding the system in state $x$ at time $t$. The **master equation** $$
 \frac{d}{dt}p_{x}(t) = \sum_{x' \neq x} [k_{x x'}p_{x'}(t) - k_{x'x}p_{x}(t)] 

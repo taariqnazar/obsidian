@@ -4,5 +4,9 @@
   "showLineNumber": false,
   "autoConvertHtml": true,
   "livePreview": true,
-  "readableLineLength": false
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showIndentGuide": true
 }
