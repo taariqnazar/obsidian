@@ -25,4 +25,9 @@ For any sets $A$ and $B$, $(A\cup B) \setminus B \subseteq A$.
 
 Why is there not an equality in the theorem above? Because, if the $A$ and $B$ have elements in common, then removing all elements of $B$ will result in a set that is not $A$. E.g $A = \{1,2\}$ and $B= \{2,3\}$.
 
+The connective $\rightarrow$ represents, in plain words, the if then *conditional*. Say we have two statements $P$ and $Q$. Then we we say if $P$ then $Q$ ($P \rightarrow Q$ ). The truth table for this connective is identical to $\neg P \vee Q$ and therefore equivalent representations.
+
+The *contrapositive* of $P \rightarrow Q$ is $\neg Q \rightarrow \neg P$ and they are both equivalent statements.
+
+The *biconditional* statment $P \leftrightarrow Q$ is the same as $(P \rightarrow Q)\wedge(Q \rightarrow P)$. That is both ways imply the other.
 
