@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Thermodynamics.md",
+                "file": "How to prove it.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Thermodynamics.md",
+                "file": "How to prove it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Thermodynamics.md",
+                "file": "How to prove it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Thermodynamics.md"
+                "file": "How to prove it.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "1b5d50f4ae0a68a3",
   "lastOpenFiles": [
-    "How to prove it.md",
     "Stochastic Thermodynamics.md",
+    "How to prove it.md",
     "MT4007 HT23/Lecture 11 Project Exam.md",
     "MT4007 HT23/Lecture 10 Slide.md",
     "Gaussian Free Fields.md",

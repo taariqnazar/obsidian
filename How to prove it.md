@@ -17,3 +17,4 @@ Can be broke down into
 
 If we have the premise P,Q,... We can create a truth table to check all the scenarios.
 
+We can interpret a set using something the book calls an *elementhood test*. For instance, if we define a set $\{ x |x  \text{ is a prime} \}$ is the set of all elements that satisfy the test. We can specify a statement of a free variable as $F(x)$ where $F$ is some statement of $x$. For instance, we write $P(x)$ as the statement: "$x$ is a prime". We can also construct statements that has as input more than one free variable. The reason for defining statements in this way is to make it possible to let $x$ range in some universe $U$ of values. Note that the truth of the statement $F(x)$ depends on the  $x$.
