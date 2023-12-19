@@ -29,5 +29,10 @@ The connective $\rightarrow$ represents, in plain words, the if then *conditiona
 
 The *contrapositive* of $P \rightarrow Q$ is $\neg Q \rightarrow \neg P$ and they are both equivalent statements.
 
-The *biconditional* statment $P \leftrightarrow Q$ is the same as $(P \rightarrow Q)\wedge(Q \rightarrow P)$. That is both ways imply the other.
+The *biconditional* statement $P \leftrightarrow Q$ is the same as $(P \rightarrow Q)\wedge(Q \rightarrow P)$. That is both ways imply the other.
+
+The reason the conditional statement is easy to missinterpret. Since in speech it is usual that one phrases a statement as a conditional but in truth a biconditonal. In mathematics, we have to be very careful when doing this.
+
+
+
 
