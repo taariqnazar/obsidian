@@ -1,5 +1,5 @@
 These are notes on the book **How to prove it** by Velleman.
-# Chapter 1 ( Sentential Logic)
+# 1  Sentential Logic
 
 We can use logical reasoning to deduce the truth of a statement. Sometimes it is easier to break down a statement from words to placeholders, e.g, P, Q for instance and use these to reason the truth. That is from the *premise* we can arrive at a *conclusion*. The idea is to construct the premise in a way so that if the premises are true then the conclusion is also true (forced). 
 
@@ -32,6 +32,9 @@ The *contrapositive* of $P \rightarrow Q$ is $\neg Q \rightarrow \neg P$ and the
 The *biconditional* statement $P \leftrightarrow Q$ is the same as $(P \rightarrow Q)\wedge(Q \rightarrow P)$. That is both ways imply the other.
 
 The reason the conditional statement is easy to missinterpret. Since in speech it is usual that one phrases a statement as a conditional but in truth a biconditonal. In mathematics, we have to be very careful when doing this.
+
+# 2 Quantificational Logic
+
 
 
 
