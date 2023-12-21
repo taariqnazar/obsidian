@@ -50,7 +50,7 @@ This quantifier is equivalent to the simpler: $\exists! x P(x) = \exists x (P(x)
 
 In the chapter about sets, we typically wrote the truth set as $\{x \in U | P(x)\}$. However, with quantifiers we can instead write the truth set differently as $\forall x\in U \quad P(x)$. Similarly, we can write there is at least one $x$ such that $P(x)$ is true as $\exists x \quad P(x)$. We say that these quantifiers are *bounded*. Since we are restricting the values of $x$. E.g. $\exists x > 0 \quad P(x)$. These bounded quantifiers can be expanded to something more familiar. For instance, $\forall x \in A \quad P(X) = \forall x(x \in A \rightarrow P(x))$. Interestingly, the negation laws do not change the universe. For instance, $\neg \forall x \in A\;P(x) = \exists x \in A\;\neg P(x)$.
 
-A special case is when the bound, say $A=\emptyset$. The statements:
+A special case is when the quantifier is bound to $A=\emptyset$. The statements:
 - $\exists x \in A\;P(x)$ is always false.
 - $\forall x \in A\;P(x)$ is always true. These types of statements are called *vacuously* true.
 
