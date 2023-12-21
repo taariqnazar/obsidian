@@ -48,4 +48,12 @@ If one wants to quantify that there exists **exactly** one x such that a stateme
 
 This quantifier is equivalent to the simpler: $\exists! x P(x) = \exists x (P(x) \wedge \neg \exists y(P(y) \wedge (y\neq x))$.
 
-In the chapter about sets, we typically wrote the truth set as $\{x \in U | P(x)\}$. However, with quantifiers we can instead write the truth set differently as $\forall x\in U \quad P(x)$. Similarly, we can write there is at least one $x$ such that $P(x)$ is true as $\exists x \quad P(x)$. We say that these quantifiers are *bounded*. Since we are restricting the values of $x$. E.g. $\exists x > 0 \quad P(x)$. These bounded quantifiers can be expanded to something more familiar. For instance, $\forall x \in$
+In the chapter about sets, we typically wrote the truth set as $\{x \in U | P(x)\}$. However, with quantifiers we can instead write the truth set differently as $\forall x\in U \quad P(x)$. Similarly, we can write there is at least one $x$ such that $P(x)$ is true as $\exists x \quad P(x)$. We say that these quantifiers are *bounded*. Since we are restricting the values of $x$. E.g. $\exists x > 0 \quad P(x)$. These bounded quantifiers can be expanded to something more familiar. For instance, $\forall x \in A \quad P(X) = \forall x(x \in A \rightarrow P(x))$. Interestingly, the negation laws do not change the universe. For instance, $\neg \forall x \in A\;P(x) = \exists x \in A\;\neg P(x)$.
+
+A special case is when the bound, say $A=\emptyset$. The statements:
+- $\exists x \in A\;P(x)$ is always false.
+- $\forall x \in A\;P(x)$ is always true. These types of statements are called *vacuously* true.
+
+The universal quantifier $\forall$ distributes over conjunction. That is, $\forall x (E(x)  \wedge T(x) = \forall x E(x) \wedge \forall x T(x)$. Is this also true for $\vee$? 
+
+At this point we have learnt the following 7 symbols, The connectives $\wedge, \vee, \neg, \rightarrow, \leftrightarrow$ and the quantifiers: $\forall, \exists$. The author states the structure of all mathematical statements can be understood using these symbols, and all mathematical reasoning can be analysed in terms of the proper use of these symbols.
