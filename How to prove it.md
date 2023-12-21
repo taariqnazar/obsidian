@@ -35,4 +35,7 @@ The reason the conditional statement is easy to missinterpret. Since in speech i
 
 # 2 Quantificational Logic
 
-It is typically of interest to analyse how many values there are in a truth set. More specifically, we want to know if the truth set is the entire universe or if there is at least one value in the set. To do this, we can use quantifiers. The two, quantifiers we are studying are $\exists$ the **existential** quantifier and $\forall$ the **universal** quantifier. They should be use as "there exits" and "for all". These symbols quantify, the truth set.
+It is typically off interest to analyse how many values there are in a truth set. More specifically, we want to know if the truth set is the entire universe or if there is at least one value in the set. To do this, we can use quantifiers. The two, quantifiers we are studying are $\exists$ the **existential** quantifier and $\forall$ the **universal** quantifier. They should be use as "there exits" and "for all". These symbols quantify, the truth set.
+
+We can combine quantifiers, to generate more general statements. But the order in which these are used **matter**. So be cautious about using them.
+
