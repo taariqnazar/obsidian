@@ -37,5 +37,15 @@ The reason the conditional statement is easy to missinterpret. Since in speech i
 
 It is typically off interest to analyse how many values there are in a truth set. More specifically, we want to know if the truth set is the entire universe or if there is at least one value in the set. To do this, we can use quantifiers. The two, quantifiers we are studying are $\exists$ the **existential** quantifier and $\forall$ the **universal** quantifier. They should be use as "there exits" and "for all". These symbols quantify, the truth set.
 
-We can combine quantifiers, to generate more general statements. But the order in which these are used **matter**. So be cautious about using them.
+We can combine quantifiers, to generate more general statements. But the order in which these are used **matter**. So be cautious about using them. However, if the it is the same quantifier, then it dosen't matter. That is, they can be interchanged.
 
+There are two laws for quantifiers that using negation, **Quanifier Negation Laws**:
+- $\neg \exists xP(x) = \forall x \neg P(x)$
+- $\neg \forall x P(x) = \exists x \neg P(x)$
+That is the negation can be swapped with the quantifier by changing the quantifier and negating the statement. 
+
+If one wants to quantify that there exists **exactly** one x such that a statement is true then we write $\exists! x P(x)$. We save this special notation since it occurs often in mathematics. It is also typical to say that there is a **unique** x.
+
+This quantifier is equivalent to the simpler: $\exists! x P(x) = \exists x (P(x) \wedge \neg \exists y(P(y) \wedge (y\neq x))$.
+
+In the chapter about sets, we typically wrote the truth set as $\{x \in U | P(x)\}$. However, with quantifiers we can instead write the truth set differently as $\forall x\in U \quad P(x)$. Similarly, we can write there is at least one $x$ such that $P(x)$ is true as $\exists x \quad P(x)$. We say that these quantifiers are *bounded*. Since we are restricting the values of $x$. E.g. $\exists x > 0 \quad P(x)$. These bounded quantifiers can be expanded to something more familiar. For instance, $\forall x \in$
