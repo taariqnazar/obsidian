@@ -57,3 +57,4 @@ A special case is when the quantifier is bound to $A=\emptyset$. The statements:
 The universal quantifier $\forall$ distributes over conjunction. That is, $\forall x (E(x)  \wedge T(x) = \forall x E(x) \wedge \forall x T(x)$ and the existential quantifier distributes over disjunction. That is, $\exists x (P(x) \vee Q(x)) =\exists x P(x) \vee \exists x Q(x)$.
 
 At this point we have learnt the following 7 symbols, The connectives $\wedge, \vee, \neg, \rightarrow, \leftrightarrow$ and the quantifiers: $\forall, \exists$. The author states the structure of all mathematical statements can be understood using these symbols, and all mathematical reasoning can be analysed in terms of the proper use of these symbols.
+
