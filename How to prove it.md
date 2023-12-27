@@ -65,4 +65,18 @@ Definition of *intersection* and *union* for families of sets:
 
 # 3 Proofs
 
+A proof of a theorem is a deductive argument whose premises are the hypothesis of the theorem and whose conclusion is the conclusion of the theorem.
 
+**Never assert anything until you can justify it completely**. However, making and assumption is ok. One should have in mind that when we assume a statement $P$ and conclude $Q$, we are not really proving $Q$. We are saying that if $P$ is true then $Q$ is true. That is, if the theorem being proven was $Q$, then the proof is incomplete. But if the conclusion was $P \rightarrow Q$, then the proof is complete.
+
+**First proof strategy:**
+	**To prove a conclusion of the form $P \rightarrow Q$:**
+	Assume $P$ is true and then prove $Q$.
+In this, strategy the conclusion we are trying to prove is $P \rightarrow Q$ and **NOT** $Q$. But this strategy allows us to transform the problem into an equivalent formulation. What this strategy says is that, if we have a conclusion of the form above, then we can add $P$ to our hypothesis and change the conclusion to $Q$. And if we prove this transformed problem we have then concluded $P \rightarrow Q$.
+ 
+We define *givens* as statements that are know or assumed to be try at some point the course of figuring out a proof. And the statement that remains to be proven at that point as the *goal*. At the start of figuring out a proof, the givens will just be the hypothesis, but the may later include other statements that have been inferred or added as a new assumption as a result of transformation. The goal will initially be the conclusion but may be changed several times in the course of figuring out a proof. 
+
+**Example:**
+	Say we want to prove the following conclusion $P \rightarrow Q$. At this stage we have no givens, and the goal is $P \rightarrow Q$. However, if we use the proof strategy above, we can transform the problem. Then, our givens will me $P$ and the goal will be $Q$.
+
+ 
