@@ -101,4 +101,4 @@ We define *givens* as statements that are know or assumed to be try at some poin
 
 **Proof strategy for conditional (rules of inference):**
 	**To use a given of the form $P \rightarrow Q$:**
-	If you are also given $P$, or if you can prove $P$ is true, then you can use this given to conclude that $Q$ is true. Since it is equivalent to $\neg Q \rightarrow \neg P$, if you can prove that $Q$ is false, you can use this given to conclude that $P$ is false.
+	If you are also given $P$, or if you can prove $P$ is true, then you can use this given to conclude that $Q$ is true (modus ponens). Since it is equivalent to $\neg Q \rightarrow \neg P$, if you can prove that $Q$ is false, you can use this given to conclude that $P$ is false (modus tollens).
