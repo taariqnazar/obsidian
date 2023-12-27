@@ -61,3 +61,8 @@ At this point we have learnt the following 7 symbols, The connectives $\wedge, \
 Definition of *intersection* and *union* for families of sets:
 - The intersection of a family $\cap \mathcal{F} = \{ x | \forall A \in \mathcal{F} (x \in A)\}=\{ x | \forall(A \in \mathcal{F} \rightarrow x \in A) \}$.
 - The union of a family $\cup \mathcal{F} =\{ x | \exists A \in \mathcal{F}(x \in A) \}= \{ x | \exists A(A \in \mathcal{F} \wedge x \in A)\}$.
+
+
+# 3 Proofs
+
+
