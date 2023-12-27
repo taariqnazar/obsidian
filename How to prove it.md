@@ -79,4 +79,8 @@ We define *givens* as statements that are know or assumed to be try at some poin
 **Example:**
 	Say we want to prove the following conclusion $P \rightarrow Q$. At this stage we have no givens, and the goal is $P \rightarrow Q$. However, if we use the proof strategy above, we can transform the problem. Then, our givens will me $P$ and the goal will be $Q$.
 
- 
+**Second proof strategy (Contraposition):** 
+	**To prove a goal of the form $P \rightarrow Q$:**
+	Assume $Q$ is false and prove that $P$ is false.
+
+
