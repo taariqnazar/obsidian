@@ -83,4 +83,22 @@ We define *givens* as statements that are know or assumed to be try at some poin
 	**To prove a goal of the form $P \rightarrow Q$:**
 	Assume $Q$ is false and prove that $P$ is false.
 
+**Negated statements proof strategy**:
+	**To prove a goal of the form $\neg P$:
+	If possible, reexpress the goal in some other form and then use one of the proof strategies for this other goal form.
 
+**Proof by contradiction:**
+	**To prove a goal of the form $\neg P$:**
+	 Assume $P$ is true and try to reach a contradiction. Once you have reached a contradiction, you can conclude that $P$ must be false. Often, one tries to contradict one of the given.
+
+**Proof strategy based on given:**
+	**To use a given of the form $\neg P$:**
+	If you're doing a proof by contradiction, try making $P$ your goal. If you can prove $P$, then the proof will be complete, because $P$ contradicts the given $\neg P$. That is, to prove a contradiction, negate one off the given. If we can prove the negated given then the proof will be complete, because the goal contradicts the given.
+
+**Rexpress given proof strategy:**
+	**To use a given of the form $\neg P$:**
+	If possible, reexpress this given in some other form.
+
+**Proof strategy for conditional (rules of inference):**
+	**To use a given of the form $P \rightarrow Q$:**
+	If you are also given $P$, or if you can prove $P$ is true, then you can use this given to conclude that $Q$ is true. Since it is equivalent to $\neg Q \rightarrow \neg P$, if you can prove that $Q$ is false, you can use this given to conclude that $P$ is false.
