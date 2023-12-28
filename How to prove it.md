@@ -102,3 +102,26 @@ We define *givens* as statements that are know or assumed to be try at some poin
 **Proof strategy for conditional (rules of inference):**
 	**To use a given of the form $P \rightarrow Q$:**
 	If you are also given $P$, or if you can prove $P$ is true, then you can use this given to conclude that $Q$ is true (modus ponens). Since it is equivalent to $\neg Q \rightarrow \neg P$, if you can prove that $Q$ is false, you can use this given to conclude that $P$ is false (modus tollens).
+
+**Proof strategy for universal quantifier:**
+	**To prove a goal of the form $\forall x P(x)$:**
+	Let $x$ stand for an arbitrary object and prove $P(x)$. The letter $x$ must be a new variable in the proof. If $x$ is already being used in the proof to stand for something, then you must choose an unused variable, say $y$. to stand for the arbitrary object, and prove $P(y)$.
+
+**Proof strategy for existential quantifier:**
+	**To prove a goal of the form $\exists x P(x)$:**
+	Try to find a value of $x$ for which you think $P(x)$ will be true. Then start your proof with "Let $x=$ (the value you decided on)" and proceed to prove $P(x)$ for this value of $x$. Once again, $x$ should be a new variable. 
+
+**Proof strategy for using existential quantifier in given:**
+	**To use a give of the form $\exists x P(x)$:**
+	Introduce a new variable $x_{0}$ into the proof to stand for and object which $P(x_{0})$ is true. This means that you can now assume that $P(x_{0})$ is true. This is called *existential instantiation*.
+
+**Proof strategy for using universal quantifier in given:**
+	**To use a given of the form $\forall x P(x)$:**
+	You can plug in any value, say $a$, for $x$ and use this given to conclude that $P(a)$ is true. This rule is called *universal instantiation*.
+
+
+
+
+
+
+ 
