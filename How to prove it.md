@@ -119,8 +119,20 @@ We define *givens* as statements that are know or assumed to be try at some poin
 	**To use a given of the form $\forall x P(x)$:**
 	You can plug in any value, say $a$, for $x$ and use this given to conclude that $P(a)$ is true. This rule is called *universal instantiation*.
 
+**Proof strategy for solving goal with conjunction**:
+	**To prove a goal of the form $P \wedge Q:$
+	Prove $P$ and $Q$ separately.
 
+**Proof strategy for solving given with conjunction:**
+	**To use a given of the form $P \wedge Q$:**
+	Treat this given as two separate givens: $P$ , and $Q$.
 
+**Proof strategy for biconditional:**
+	**To prove a goal of the form $P\leftrightarrow Q$:**
+	Prove $P \rightarrow Q$ and $Q \rightarrow P$ separately.
+
+**Proof strategy to use given of the form $P \leftrightarrow Q$:**
+	Treat this as two separate givens: $P \rightarrow Q$, and $Q \rightarrow P$.
 
 
 
