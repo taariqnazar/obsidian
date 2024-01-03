@@ -142,4 +142,12 @@ We define *givens* as statements that are know or assumed to be try at some poin
 
 Any proof can be broken into cases at any time, as long as the cases *exhaust* all of the possibilities.
 
- 
+Whenever faced with a goal of the form $P \vee Q$ and we can't figure out how to split it into cases a simple rule of thumb is the following: 
+	Assume that $P$ is true for case $1$ and assume that it is false in case $2$. $P$ is either true of false, so in the first case if we assume that $P$ is true then the goal $P \vee Q$ is true. In the second case we assume that $P$ is false, so the only way that the goal $P \vee Q$ is true is if $Q$ is true. Thus to complete the second case we should try to prove $Q$.
+
+Summed up in a proof strategy:
+**Proof strategy to deal with goal of the from $P \vee Q$:**
+	If $P$ is true, then clearly the goal $P \vee Q$ is true, so you only need to worry about the case in which $P$ is false. You can complete the proof in this case by proving that $Q$ is true.
+
+**To use a given of the form $P \vee Q$:**
+	If yo are given $\neg P$, or you can prove that $P$ is false, then you can use the given to conclude that $Q$ is true. Similarly, if you  are given $\neg Q$ or can prove that $Q$ is false, then you can conclude that $P$ is true.
