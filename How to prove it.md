@@ -134,6 +134,12 @@ We define *givens* as statements that are know or assumed to be try at some poin
 **Proof strategy to use given of the form $P \leftrightarrow Q$:**
 	Treat this as two separate givens: $P \rightarrow Q$, and $Q \rightarrow P$.
 
+**Proof strategy to use given of the form $P \vee Q$:**
+	Break your proof into cases. For case 1, assume that $P$ is true and use this assumption to prove the goal. For case 2, assume $Q$ is true and give another proof of the goal.
 
+**Proof strategy for goal of the form $P \vee Q$:**
+	Break your proof into cases. In each case, either prove $P$ or prove $Q$.
+
+Any proof can be broken into cases at any time, as long as the cases *exhaust* all of the possibilities.
 
  
