@@ -151,3 +151,13 @@ Summed up in a proof strategy:
 
 **To use a given of the form $P \vee Q$:**
 	If yo are given $\neg P$, or you can prove that $P$ is false, then you can use the given to conclude that $Q$ is true. Similarly, if you  are given $\neg Q$ or can prove that $Q$ is false, then you can conclude that $P$ is true.
+
+**To prove a goal of the form $\exists ! xP(x)$:**
+	Prove $\exists xP(x)$ and $\forall y\forall z( (P(y) \wedge P(z)) \rightarrow y=z)$. The first of these goals shows that there exists an $x$ such that $P(x)$ is true, and the second shows that it is unique. The two parts of the proof are therefore sometimes labeled *existence* and *uniqueness*. There are however many ways of proving something equivalent. They author provides three equivalent representations.
+
+**To prove a goal of the form $\exists!xP(x)$**:
+	Prove $\exists x((P(x) \wedge) \forall y(P(y) \rightarrow y=x))$, using strategies from previous sections.
+
+**To use a given of the form $\exists!xP(x)$:**
+	Treat this as two given statements, $\exists xP(x)$ and $\forall y\forall z((P(y) \wedge P(z)) \rightarrow y=z)$. To use the first statement you should probably choose a name, say $x_{0}$, to stand for some object such that $P(x_{0})$ is true. The second tells you that if you ever come across two objects $y$ and $z$ such that $P(y)$ and $P(z)$ are both true, you can conclude that $y=z$.
+
