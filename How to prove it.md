@@ -162,3 +162,8 @@ Summed up in a proof strategy:
 	Treat this as two given statements, $\exists xP(x)$ and $\forall y\forall z((P(y) \wedge P(z)) \rightarrow y=z)$. To use the first statement you should probably choose a name, say $x_{0}$, to stand for some object such that $P(x_{0})$ is true. The second tells you that if you ever come across two objects $y$ and $z$ such that $P(y)$ and $P(z)$ are both true, you can conclude that $y=z$.
 
 # Chapter 4
+
+**Definition (Truth set for Cartesian products)**:
+	Suppose $P(x,y)$ is a statement with two free variables in which $x$ ranges over a set $A$
+	and $y$ ranges over another set $B$. Then $A \times B$ is the set of all assignments of values to $x$ and $y$ that makes sense in the statement $P(x,y)$. The truth set of $P(x,y)$ is the subset of $A \times B$ consisting of those assignments that make the statement come out true. In other words, the truth set of $P(x,y)$ is the set $\{(a,b) \in A \times B | P(a,b)\}$.
+
