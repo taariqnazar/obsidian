@@ -161,3 +161,4 @@ Summed up in a proof strategy:
 **To use a given of the form $\exists!xP(x)$:**
 	Treat this as two given statements, $\exists xP(x)$ and $\forall y\forall z((P(y) \wedge P(z)) \rightarrow y=z)$. To use the first statement you should probably choose a name, say $x_{0}$, to stand for some object such that $P(x_{0})$ is true. The second tells you that if you ever come across two objects $y$ and $z$ such that $P(y)$ and $P(z)$ are both true, you can conclude that $y=z$.
 
+# Chapter 4
