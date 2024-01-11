@@ -167,3 +167,6 @@ Summed up in a proof strategy:
 	Suppose $P(x,y)$ is a statement with two free variables in which $x$ ranges over a set $A$
 	and $y$ ranges over another set $B$. Then $A \times B$ is the set of all assignments of values to $x$ and $y$ that makes sense in the statement $P(x,y)$. The truth set of $P(x,y)$ is the subset of $A \times B$ consisting of those assignments that make the statement come out true. In other words, the truth set of $P(x,y)$ is the set $\{(a,b) \in A \times B | P(a,b)\}$.
 
+**Definition**(Relation of sets):
+	A relation is a subset. However, we can think of it as a subset satisfying some statement $P(\cdot )$. This gives us a subset that relates something. For instance if $C$ is the set of all children then $C_{10} \subseteq C$, where $C_{10}$ is the set of all children that are $10$ or younger. We have thus constructed a relation. I am unsure if this definition holds for non-cartesian-product sets. However, the gist of it should make sense.
+
