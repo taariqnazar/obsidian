@@ -167,6 +167,14 @@ Summed up in a proof strategy:
 	Suppose $P(x,y)$ is a statement with two free variables in which $x$ ranges over a set $A$
 	and $y$ ranges over another set $B$. Then $A \times B$ is the set of all assignments of values to $x$ and $y$ that makes sense in the statement $P(x,y)$. The truth set of $P(x,y)$ is the subset of $A \times B$ consisting of those assignments that make the statement come out true. In other words, the truth set of $P(x,y)$ is the set $\{(a,b) \in A \times B | P(a,b)\}$.
 
-**Definition**(Relation of sets):
-	A relation is a subset. However, we can think of it as a subset satisfying some statement $P(\cdot )$. This gives us a subset that relates something. For instance if $C$ is the set of all children then $C_{10} \subseteq C$, where $C_{10}$ is the set of all children that are $10$ or younger. We have thus constructed a relation. I am unsure if this definition holds for non-cartesian-product sets. However, the gist of it should make sense.
+**Definition (Relation):** 
+	A relation is a subset $R \subseteq A \times B$ . We can think of it as a subset satisfying some statement $P(\cdot )$. This gives us a subset that gives us a relationship of some sort. 
 
+**Theorem (Properties of Relation)**:
+	Suppose $R$ is a relation from $A$ to $B$, $S$ is a relation from $B$ to $S$, and T is a relation from $C$ to $D$. Then:
+	1. $(R^{-1})^{-1} = R$.
+	2. $\mathrm{Dom} (R^{-1}) = \mathrm{Ran}(R)$.
+	3. $\mathrm{Ran}(R^{-1}))=\mathrm{Dom}(R)$.
+	4. $T \circ (S \circ R) = (T \circ S) \circ R$ .
+	5. $(S \circ R)^{-1}= R^{-1} \circ S^{-1}$
+ 
