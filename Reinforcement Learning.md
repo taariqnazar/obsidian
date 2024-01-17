@@ -17,11 +17,3 @@ Episodic vs Continuing taskts
 
 state-value function under $\pi $
 action-value function under $\pi $
-
-
-#fig:yourfig
-$$
-5+5 = 10
-$$
-
-@fig:your_fig
