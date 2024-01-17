@@ -13,4 +13,15 @@ boundary between agent and environment
 
 Reward signal is a way to communicate to the agent what it wants to achieve, not how we want it to be achieved. What this means is that we should not reward sub-goals, instead, reward the agent for completing the task we have set out.
 
+Episodic vs Continuing taskts
 
+state-value function under $\pi $
+action-value function under $\pi $
+
+
+#fig:yourfig
+$$
+5+5 = 10
+$$
+
+@fig:your_fig
