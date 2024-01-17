@@ -16,4 +16,4 @@ Reward signal is a way to communicate to the agent what it wants to achieve, not
 Episodic vs Continuing taskts
 
 state-value function under $\pi $
-action-value function under $\pi $
+action-value function under $\pi$.
