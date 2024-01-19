@@ -39,3 +39,12 @@ Remember that policy evaluation step is in itself an iteration. However, in poli
 
 For the policy iteration algorithm, there are nice convergence results for the policy and value function.
 
+Async. Dynamic Programming
+
+Generalized Policy Iteration (GPI). Almost all RL algorithms are well described as GPIs.
+
+What are backup diagrams and how can they be used.
+
+
+
+
