@@ -17,3 +17,14 @@ Episodic vs Continuing taskts
 
 state-value function under $\pi $
 action-value function under $\pi$.
+
+Dynamic Programming(DP) needs a perfect discription of the env. However, most of the algorithms proposed later in the book are based on the same idea as DP.
+
+Policy Evaluation
+calculate(evaluate) the value function of a given policy using the Bellman equation.
+
+Iterative policy evaluation
+Approximated the policy through iterations.
+
+The type of update performed in iterative policy evaluation is called an *expected update*.
+
