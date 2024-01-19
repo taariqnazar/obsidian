@@ -20,11 +20,17 @@ action-value function under $\pi$.
 
 Dynamic Programming(DP) needs a perfect discription of the env. However, most of the algorithms proposed later in the book are based on the same idea as DP.
 
-Policy Evaluation
+Policy Evaluation also called prediction
 calculate(evaluate) the value function of a given policy using the Bellman equation.
 
 Iterative policy evaluation
 Approximated the policy through iterations.
+under which conditions does this converge?
 
-The type of update performed in iterative policy evaluation is called an *expected update*.
+The type of update performed in iterative policy evaluation is called an *expected update*. They are called this since the next approx. is based on the expected value of all on-step rewards and successor values.
+
+Policy Improvement thm.
+
+Policy iteration
+$\pi_{0} \rightarrow v_{\pi_{0}} \rightarrow \pi_{1} \rightarrow v_{\pi_{1}} \cdots \rightarrow \pi_{*} \rightarrow v_{*}$.
 
