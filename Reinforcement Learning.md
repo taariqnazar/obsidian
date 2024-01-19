@@ -32,5 +32,10 @@ The type of update performed in iterative policy evaluation is called an *expect
 Policy Improvement thm.
 
 Policy iteration
-$\pi_{0} \rightarrow v_{\pi_{0}} \rightarrow \pi_{1} \rightarrow v_{\pi_{1}} \cdots \rightarrow \pi_{*} \rightarrow v_{*}$.
+$\pi_{0} \overset{E}\rightarrow v_{\pi_{0}} \overset{I}\rightarrow \pi_{1} \overset{E}\rightarrow v_{\pi_{1}} \cdots \overset{I}\rightarrow \pi_{*} \overset{E}\rightarrow v_{*}$,
+where $\overset{E}\rightarrow$ denotes a policy *evaluation* and $\overset{I}\rightarrow$ denotes a policy *improvement*. Policy iteration, first improves the policy over all states for a given value function, using the action-value function. Then using the improved policy, it improves the value function using iterative policy evaluation and then updates the policy and so on. By the policy improvement thm, we can be sure that our policy will improve at each step for a given value function. 
+
+Remember that policy evaluation step is in itself an iteration. However, in policy iteration, it is possible to truncate the evaluation step. The case where truncation is done to one update step for all states, it is called *value iteration*.
+
+For the policy iteration algorithm, there are nice convergence results for the policy and value function.
 
