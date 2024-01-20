@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "46b652028f06a91d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ESC for Brushless DC Motor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "513cd0213c94e1d5",
@@ -110,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning.md",
+                "file": "ESC for Brushless DC Motor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning.md",
+                "file": "ESC for Brushless DC Motor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning.md"
+                "file": "ESC for Brushless DC Motor.md"
               }
             }
           }
@@ -162,10 +173,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ba63432b91b76709",
+  "active": "46b652028f06a91d",
   "lastOpenFiles": [
-    "How to prove it.md",
     "Reinforcement Learning.md",
+    "ESC for Brushless DC Motor.md",
+    "How to prove it.md",
     "Stochastic Thermodynamics.md",
     "MT4007 HT23/Lecture 11 Project Exam.md",
     "MT4007 HT23/Lecture 10 Slide.md",
@@ -209,7 +221,6 @@
     "export/Lecture 1 Slide/plugin/chalkboard",
     "export/Lecture 1 Slide/plugin/chart/plugin.js",
     "export/Lecture 1 Slide/plugin/chart/chart.min.js",
-    "export/Lecture 1 Slide/plugin/chart/README.md",
     "export/Lecture 1 Slide/plugin/chart"
   ]
 }
