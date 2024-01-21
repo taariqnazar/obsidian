@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESC for Brushless DC Motor.md",
+                "file": "Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESC for Brushless DC Motor.md",
+                "file": "Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESC for Brushless DC Motor.md"
+                "file": "Reinforcement Learning.md"
               }
             }
           }
@@ -174,10 +174,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "46b652028f06a91d",
+  "active": "ba63432b91b76709",
   "lastOpenFiles": [
-    "Reinforcement Learning.md",
     "ESC for Brushless DC Motor.md",
+    "Reinforcement Learning.md",
     "How to prove it.md",
     "Stochastic Thermodynamics.md",
     "MT4007 HT23/Lecture 11 Project Exam.md",
