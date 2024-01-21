@@ -45,7 +45,22 @@ Generalized Policy Iteration (GPI). Almost all RL algorithms are well described 
 
 What are backup diagrams and how can they be used.
 
+Monte-Carlo methods use averages to estimate the value function and optimal action. In the book they focus on episodic tasks to keep the rewards finite.  Furthermore, updates are done by an episode-by-episode basis not step-by-step (online). Sampling throughout an episode and finally updating after the episode. Then repeating.
 
+Monte Carlo Prediction
 
+first-visit and every-visit
 
+Even in the case where dynamics are known using Monte-Carlo methods can make it simpler to predict. For instance if the state dynamics are complex but the one can simulate easily. 
 
+An important fact about Monte Carlo methods is that the estimates are independent. That is, the update is not based on previous estimates. This means that these methods do not bootstrap.
+
+It can be seen easily that this method is independent on the number of states for computation only the sample trajectory.
+
+Since the dynamics are unknown it is better to estimate the action-value $q$ instead of the state-value. Since we need to determine how to act optimally, it is not enough to know the state-value to determine the action in contrary to DP.
+
+To properly estimate the action-value one must maintain exploration otherwise not all pairs will be visited. For instance in the case of a deterministic policy. In this case, only specific state-action pairs will be visited.
+
+exploring starts is one way of maintaining exploration.
+
+Another approach is to use a non-deterministic policy.
