@@ -64,3 +64,6 @@ To properly estimate the action-value one must maintain exploration otherwise no
 exploring starts is one way of maintaining exploration.
 
 Another approach is to use a non-deterministic policy.
+
+Monte-Carlo control is very similar to GPI for DP. In this case however, evaluation of states are made after each episode. The observed returns are used for policy evaluation and then the policy is improved at all the states visited in the episode.  A simple algorithm along these lines is called MCES, for Monte Carlo with Exploring Starts.
+
