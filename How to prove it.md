@@ -170,6 +170,16 @@ Summed up in a proof strategy:
 **Definition (Relation):** 
 	A relation is a subset $R \subseteq A \times B$ . We can think of it as a subset satisfying some statement $P(\cdot )$. This gives us a subset that gives us a relationship of some sort. 
 
+**Definition**: 
+	Suppose $R$ is a relation from $A$ to $B$. Then
+	The *domain* of R is the set $Dom(R) = \{ a \in A | \exists b \in B ((a,b) \in R)\}$.
+	The *range* of $R$ is the set 
+	$Ran(R) = \{ b \in B | \exists a \in A((a,b) \in R)\}$.
+	 The *inverse* of $R$ is the relation $R^{-1}$ from $B$ to $A$ defined as follows:
+	 $R^{-1} = \{ (b,a) \in B \times A | (a,b) \in R \}$
+	 Finally, suppose $R$ is a relation from $A$ to $B$ and $S$ is a relation from $B$ to C. The the *composition* of $S$ and $R$ is the relation $S \circ R$ from $A$ to $C$ defined as follows:
+	 $S \circ R = \{ (a,c) \in A \times C | \exists b \in B ((a,b) \in R \wedge (b,c) \in S) \}$
+ 
 **Theorem (Properties of Relation)**:
 	Suppose $R$ is a relation from $A$ to $B$, $S$ is a relation from $B$ to $S$, and T is a relation from $C$ to $D$. Then:
 	1. $(R^{-1})^{-1} = R$.

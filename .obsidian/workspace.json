@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning.md",
+                "file": "How to prove it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning.md",
+                "file": "How to prove it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning.md"
+                "file": "How to prove it.md"
               }
             }
           }
@@ -174,10 +173,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ba63432b91b76709",
+  "active": "1b5d50f4ae0a68a3",
   "lastOpenFiles": [
-    "ESC for Brushless DC Motor.md",
     "Reinforcement Learning.md",
+    "ESC for Brushless DC Motor.md",
     "How to prove it.md",
     "Stochastic Thermodynamics.md",
     "MT4007 HT23/Lecture 11 Project Exam.md",
