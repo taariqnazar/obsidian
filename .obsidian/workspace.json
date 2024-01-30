@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCU STM32.md",
+                "file": "Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCU STM32.md",
+                "file": "Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCU STM32.md"
+                "file": "Reinforcement Learning.md"
               }
             }
           }
@@ -186,12 +186,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2f1ed077c757d792",
+  "active": "ba63432b91b76709",
   "lastOpenFiles": [
+    "MCU STM32.md",
     "How to prove it.md",
     "ESC for Brushless DC Motor.md",
     "Reinforcement Learning.md",
-    "MCU STM32.md",
     "Stochastic Thermodynamics.md",
     "MT4007 HT23/Lecture 11 Project Exam.md",
     "MT4007 HT23/Lecture 10 Slide.md",
