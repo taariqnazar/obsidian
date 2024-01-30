@@ -67,4 +67,26 @@ Another approach is to use a non-deterministic policy.
 
 Monte-Carlo control is very similar to GPI for DP. In this case however, evaluation of states are made after each episode. The observed returns are used for policy evaluation and then the policy is improved at all the states visited in the episode.  A simple algorithm along these lines is called MCES, for Monte Carlo with Exploring Starts.
 
+On-policy vs off-policy
+
+an on-policy methods attempt to evaluate or improve the policy used to make decisions or generate the episodes. Off-policy on the other hand, evaluate or improve a policy different from the data. 
+
+Monte-Carlo ES is a of on-policy method.
+
+Epsilon-soft policies are policies where the probability of choosing a non greedy action is greater than the uniform choice. That is $\pi(a|s) \geq \frac{\epsilon}{\mid \mathcal{A(s)}\mid}$. In some sense, the $\epsilon$-greedy strategy is the one closest o greedy.
+
+Using Policy iteration using $\epsilon$-soft policies will only give us the best $\epsilon$-soft policy in the end. Not the optimal of all strategies.
+
+Off-policy methods consists of two policies. One is called the target and the other the behaviour policy. The idea is that we use the behaviour policy to sample interactions and gather data but what we seek is to find the target. 
+
+For this to be viable we need that $\pi(a|s)>0$ implies $b(a|s)>0$. This is the notion of coverage. That is, they have to be able to take the same actions.
+
+The mechanism to use $b$ to solver for $\pi$ is to use importance sampling. The importance sampling rations weights the returns for each step and then gives us the correct expectation. This is a neat trick. 
+
+Weighted importance sampling vs Ordinary importance sampling. The former is a biased estimate (bias asymptotically going to zero) but with lower variance. The weighted version is weighted sum of importance sampling ration and returns.
+
+We can make us of *incremental implementation* to remove the need to store all the values and visits. 
+
+
+
 
