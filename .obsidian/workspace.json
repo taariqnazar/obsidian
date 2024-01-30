@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to prove it.md",
+                "file": "MCU STM32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to prove it.md",
+                "file": "MCU STM32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to prove it.md"
+                "file": "MCU STM32.md"
               }
             }
           }
@@ -185,11 +186,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1b5d50f4ae0a68a3",
+  "active": "2f1ed077c757d792",
   "lastOpenFiles": [
+    "How to prove it.md",
     "ESC for Brushless DC Motor.md",
     "Reinforcement Learning.md",
-    "How to prove it.md",
     "MCU STM32.md",
     "Stochastic Thermodynamics.md",
     "MT4007 HT23/Lecture 11 Project Exam.md",
