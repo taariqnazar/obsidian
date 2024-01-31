@@ -103,4 +103,17 @@ This can be seen as the  error between estimates.
 
 batch updating is to use the samples over and over again to update the value function (for prediction) until it converges. This make sense since the value function bootstraps in TD methods so after each update the value function changes. Which changes the TD-error. This can be continued until the TD-error goes to $0$
 
+Sarsa: On-policy
+
+Q-Learning: Off-policy
+
+Expected Q-Learning as an improvement over the above two. It uses the expected reward as the return.
+
+Windy grid-world exercise!
+
+Maximization bias is due the max operation in the TD-methods.
+
+double learning to remove this maximization bias.
+
+afterstate: tic-tac-toe example. This is how we should deal with games that can reach a state $S_{t+1}$ from multiple $(S_{t},A_{t})$ pairs. It may be more useful, in these cases, to instead evaluate the after state.
 
