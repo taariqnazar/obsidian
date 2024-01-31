@@ -18,6 +18,7 @@ Episodic vs Continuing taskts
 state-value function under $\pi $
 action-value function under $\pi$.
 
+# Dynamic Programming
 Dynamic Programming(DP) needs a perfect discription of the env. However, most of the algorithms proposed later in the book are based on the same idea as DP.
 
 Policy Evaluation also called prediction
@@ -45,6 +46,7 @@ Generalized Policy Iteration (GPI). Almost all RL algorithms are well described 
 
 What are backup diagrams and how can they be used.
 
+# MC Methods
 Monte-Carlo methods use averages to estimate the value function and optimal action. In the book they focus on episodic tasks to keep the rewards finite.  Furthermore, updates are done by an episode-by-episode basis not step-by-step (online). Sampling throughout an episode and finally updating after the episode. Then repeating.
 
 Monte Carlo Prediction
@@ -87,6 +89,18 @@ Weighted importance sampling vs Ordinary importance sampling. The former is a bi
 
 We can make us of *incremental implementation* to remove the need to store all the values and visits. 
 
+The key aspect of MC methods is that they can learn directly from experience and that they do not bootstrap!
 
+
+# TD Learning
+TD learning is a kind of combination of both MC methods and DP.  It can learn directly from experience like MC but uses previous estimates to update like dp.
+
+TD-error: 
+$$
+\delta_{t} = G_{t} - V(S_{t}) = R_{t+1} + \gamma V(S_{t+1}) - V(S_{t})
+$$
+This can be seen as the  error between estimates.
+
+batch updating is to use the samples over and over again to update the value function (for prediction) until it converges. This make sense since the value function bootstraps in TD methods so after each update the value function changes. Which changes the TD-error. This can be continued until the TD-error goes to $0$
 
 
