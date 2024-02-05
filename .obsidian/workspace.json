@@ -54,9 +54,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eab2105c3c533679",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "295b7ac5d6c15e7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quantum Mechanics for Mathematicians.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning.md",
+                "file": "Quantum Mechanics for Mathematicians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning.md",
+                "file": "Quantum Mechanics for Mathematicians.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning.md"
+                "file": "Quantum Mechanics for Mathematicians.md"
               }
             }
           }
@@ -186,12 +206,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ba63432b91b76709",
+  "active": "295b7ac5d6c15e7f",
   "lastOpenFiles": [
+    "Quantum Mechanics for Mathematicians.md",
+    "Reinforcement Learning.md",
     "MCU STM32.md",
     "How to prove it.md",
     "ESC for Brushless DC Motor.md",
-    "Reinforcement Learning.md",
     "Stochastic Thermodynamics.md",
     "MT4007 HT23/Lecture 11 Project Exam.md",
     "MT4007 HT23/Lecture 10 Slide.md",
@@ -221,7 +242,6 @@
     "homework/1.md",
     "homework",
     "Untitled.canvas",
-    "MT4007/Slides/slide-template.md",
     "export/Lecture 1 Slide/plugin/chalkboard/_style.css",
     "export/Lecture 1 Slide/plugin/chalkboard/img/blackboard.png",
     "export/Lecture 1 Slide/plugin/chalkboard/img/boardmarker-black.png",
