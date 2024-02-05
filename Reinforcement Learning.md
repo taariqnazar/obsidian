@@ -117,3 +117,7 @@ double learning to remove this maximization bias.
 
 afterstate: tic-tac-toe example. This is how we should deal with games that can reach a state $S_{t+1}$ from multiple $(S_{t},A_{t})$ pairs. It may be more useful, in these cases, to instead evaluate the after state.
 
+# n-step Bootstrap
+A in between of TD and MC methods. Instead of a single step(TD) or the full episode(MC), an update based on a few more steps, n-steps say, may be better. That is precisely what n-step bootstrapping is. This somehow connects to *eligibility traces*. 
+
+
