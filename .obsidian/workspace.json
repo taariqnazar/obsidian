@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaussian Free Fields.md",
+                "file": "GFF by Powell. E..md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaussian Free Fields.md",
+                "file": "GFF by Powell. E..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gaussian Free Fields.md",
+                "file": "GFF by Powell. E..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gaussian Free Fields.md"
+                "file": "GFF by Powell. E..md"
               }
             }
           }
@@ -208,6 +208,8 @@
   },
   "active": "295b7ac5d6c15e7f",
   "lastOpenFiles": [
+    "Gaussian Free Fields.md",
+    "GFF by Powell. E..md",
     "Quantum Mechanics for Mathematicians.md",
     "Reinforcement Learning.md",
     "MCU STM32.md",
@@ -216,7 +218,6 @@
     "Stochastic Thermodynamics.md",
     "MT4007 HT23/Lecture 11 Project Exam.md",
     "MT4007 HT23/Lecture 10 Slide.md",
-    "Gaussian Free Fields.md",
     "Hypothesis Testing.md",
     "Abstract Algebra.md",
     "Regularizing Trees.md",
@@ -239,7 +240,6 @@
     "MT4007 HT23/Homework 1.md",
     "MT4007 HT23/Lecture 2.md",
     "MT4007 HT23/Lecture 1.md",
-    "homework/1.md",
     "homework",
     "Untitled.canvas",
     "export/Lecture 1 Slide/plugin/chalkboard/_style.css",

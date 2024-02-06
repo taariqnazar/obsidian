@@ -1,9 +1,9 @@
 [
   "obsidian-advanced-slides",
-  "dataview",
   "obsidian-vimrc-support",
   "obsidian-git",
   "obsidian-latex-suite",
-  "obsidian-tasks-plugin",
-  "improved-vimcursor"
+  "improved-vimcursor",
+  "math-booster",
+  "mathlinks"
 ]
