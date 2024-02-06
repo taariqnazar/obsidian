@@ -45,3 +45,6 @@ The Markov property of GFF states that a zero-boundary GFF on $D$ can be decompo
 - [ ] In Weyl's Lemma, how does one convolve a distribution with a test function?
 - [ ] Vad menas med convergence in space of distributions?
 
+# LQG
+The idea of this part of the course is to define two things. A type of random surface s.t. we can define an area measure and length measure on this surface. We want to define these properties in a suitable way so that they make sense.
+

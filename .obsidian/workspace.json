@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum Mechanics for Mathematicians.md",
+                "file": "Gaussian Free Fields.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum Mechanics for Mathematicians.md",
+                "file": "Gaussian Free Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum Mechanics for Mathematicians.md",
+                "file": "Gaussian Free Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum Mechanics for Mathematicians.md"
+                "file": "Gaussian Free Fields.md"
               }
             }
           }
