@@ -207,6 +207,11 @@ If every vertex has a loop we call the relation *reflexive*.
 	2. $R$ is *symmetric* if $\forall x \in A \forall y \in A(xRy \to yRx)$
 	3. $R$ is *transitive* if $\forall x \in A \forall y \in A \forall z \in A(xRy \wedge yRz) \to xRz$.
 
-
+**Theorem**
+	Suppose $R$ is a relation on a set $A$.
+	1. $R$ is reflexive iff $i_{A} \subseteq  R$, where as before $i_{A}$ is the identity relation on $A$.
+	2. $R$ is symmetric iff $R=R^{-1}$ .
+	3. $R$ is transitive iff $R \circ R \subseteq R$.
+ 
 
 
