@@ -75,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GFF by Powell. E..md",
+                "file": "How to prove it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GFF by Powell. E..md",
+                "file": "How to prove it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GFF by Powell. E..md"
+                "file": "How to prove it.md"
               }
             }
           }
@@ -206,15 +205,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "295b7ac5d6c15e7f",
+  "active": "1b5d50f4ae0a68a3",
   "lastOpenFiles": [
-    "Gaussian Free Fields.md",
-    "GFF by Powell. E..md",
-    "Quantum Mechanics for Mathematicians.md",
+    "ESC for Brushless DC Motor.md",
     "Reinforcement Learning.md",
+    "GFF by Powell. E..md",
+    "Gaussian Free Fields.md",
+    "Quantum Mechanics for Mathematicians.md",
     "MCU STM32.md",
     "How to prove it.md",
-    "ESC for Brushless DC Motor.md",
     "Stochastic Thermodynamics.md",
     "MT4007 HT23/Lecture 11 Project Exam.md",
     "MT4007 HT23/Lecture 10 Slide.md",
