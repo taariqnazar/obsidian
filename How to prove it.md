@@ -187,4 +187,26 @@ Summed up in a proof strategy:
 	3. $\mathrm{Ran}(R^{-1}))=\mathrm{Dom}(R)$.
 	4. $T \circ (S \circ R) = (T \circ S) \circ R$ .
 	5. $(S \circ R)^{-1}= R^{-1} \circ S^{-1}$
- 
+
+ We can view relations as maps. That is if we let $R$ be a "map" we can say that $aRb$ is equivalent to $(a,b) \in R$ and finally, $R: a \to b$. Drawing the following picture can help us understand a relation $R$ better.
+
+![[Screenshot 2024-02-10 at 12.41.52.png]]
+
+Here, the points are called *vertices* and the line connecting the points are called *edges*.
+
+We call a relation that is on itself, i.e $R \subset A \times A$ a *relation on $A$* or a *binary relation on $A$*. On can illustrate such a relation using the following image.
+
+![[Screenshot 2024-02-10 at 13.05.15.png]]
+These type of figures are called *directed graphs*.
+
+If every vertex has a loop we call the relation *reflexive*.
+
+**Definition**
+	Suppose $R$ is a relation on $A$.
+	1. $R$ is said to be *reflexive* on $A$ (or just *reflexive*, if $A$ is clear from context) if $\forall x \in A(xRx)$, or in other words $\forall x \in A ((x,x) \in R)$.
+	2. $R$ is *symmetric* if $\forall x \in A \forall y \in A(xRy \to yRx)$
+	3. $R$ is *transitive* if $\forall x \in A \forall y \in A \forall z \in A(xRy \wedge yRz) \to xRz$.
+
+
+
+
