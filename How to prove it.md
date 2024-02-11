@@ -224,4 +224,14 @@ Partial ordering does not allow us to compare every element. Whilst total orderi
 **Definition**
 	Suppose $R$ is a partial order on a set $A$, $B \subseteq A$, and $b \in B$. Then $b$ is called an *$R$-smallest* element of $B$ if $\forall x \in B bRx$. It is called an *$R$-minimal* element if $\neg \exists x \in B (xRb \wedge x \neq b$.
 
-How can I interpret the definition of R-minimal? An example given above is $C = \{ a, me,men,tame,mental \}$ and the relation $R= \{  (x,y) \in A \times A | \textrm{all the letters in the word x appear, consecutively and in the right order, in the word y}\}$$. Here $\{ a, me \}$ is minimal elements of $C$. But neither $a$ or $me$ is the smallest since one can't compare these two w.r.t $R$. 
+We can interpret minimal inte following way:
+	An element $b \in B$ is $R$-minimal if both $xRb \wedge x \neq b$ can be true. For instance if all elements $\geq c$ , then if $xRc$ then $x =c$. In some sense all elements that can be viewed as the "smallest" thing that can be related to.
+
+ **Theorem**: 
+	 Suppose $R$ is a partial order on a set $A$, and $B \subseteq A$.
+	 1. If $B$ has a smallest element, then this smallest element is unique. Thus we can speak of **the** smallest element of $B$ rather than **a** smallest element. 
+	 2. Suppose $b$ is the smallest element in $B$. Then $b$ is also minimal element of $B$, and it is the only minimal element.
+	 3. If $R$ is a total order and $b$ is a minimal element of $B$, then $b$ is the smallest element of $B$.
+  
+ 
+ 
