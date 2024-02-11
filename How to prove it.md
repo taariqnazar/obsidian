@@ -221,3 +221,7 @@ If every vertex has a loop we call the relation *reflexive*.
 
 Partial ordering does not allow us to compare every element. Whilst total ordering does. From the definition we can see that either one of the relations must hold.
 
+**Definition**
+	Suppose $R$ is a partial order on a set $A$, $B \subseteq A$, and $b \in B$. Then $b$ is called an *$R$-smallest* element of $B$ if $\forall x \in B bRx$. It is called an *$R$-minimal* element if $\neg \exists x \in B (xRb \wedge x \neq b$.
+
+How can I interpret the definition of R-minimal? An example given above is $C = \{ a, me,men,tame,mental \}$ and the relation $R= \{  (x,y) \in A \times A | \textrm{all the letters in the word x appear, consecutively and in the right order, in the word y}\}$$. Here $\{ a, me \}$ is minimal elements of $C$. But neither $a$ or $me$ is the smallest since one can't compare these two w.r.t $R$. 
