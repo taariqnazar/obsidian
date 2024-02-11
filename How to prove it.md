@@ -212,6 +212,12 @@ If every vertex has a loop we call the relation *reflexive*.
 	1. $R$ is reflexive iff $i_{A} \subseteq  R$, where as before $i_{A}$ is the identity relation on $A$.
 	2. $R$ is symmetric iff $R=R^{-1}$ .
 	3. $R$ is transitive iff $R \circ R \subseteq R$.
- 
 
+**Definition**
+	Suppose $R$ is a relation on a set $A$. Then $R$ is said to be *antisymmetric* if $\forall x \in A \forall y \in A (xRy \wedge yRx) \to x=y)$.
+
+**Definition**
+	Suppose $R$ is a relation on a set $A$. Then $R$ is called a *partial order on $A$* (or just a *partial order* if $A$ is clear from context) if it is reflexive,  transitive and antisymmetric. It is called a *total roder on A* (or just *total order*) if it is a partial order, and in addition it has the following property: $\forall x \in A \forall y \in A (xRy \vee yRx)$.
+
+Partial ordering does not allow us to compare every element. Whilst total ordering does. From the definition we can see that either one of the relations must hold.
 

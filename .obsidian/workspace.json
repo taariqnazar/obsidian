@@ -87,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topology.md",
+                "file": "How to prove it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topology.md",
+                "file": "How to prove it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topology.md"
+                "file": "How to prove it.md"
               }
             }
           }
@@ -218,10 +217,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "79d170623f33a11b",
+  "active": "1b5d50f4ae0a68a3",
   "lastOpenFiles": [
-    "How to prove it.md",
     "Topology.md",
+    "How to prove it.md",
     "Screenshot 2024-02-10 at 13.05.15.png",
     "Screenshot 2024-02-10 at 12.41.52.png",
     "ESC for Brushless DC Motor.md",
