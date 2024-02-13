@@ -71,8 +71,12 @@
             "id": "eab2105c3c533679",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Quantum Mechanics for Mathematicians.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -87,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to prove it.md",
+                "file": "Quantum Mechanics for Mathematicians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to prove it.md",
+                "file": "Quantum Mechanics for Mathematicians.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to prove it.md"
+                "file": "Quantum Mechanics for Mathematicians.md"
               }
             }
           }
@@ -217,10 +222,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1b5d50f4ae0a68a3",
+  "active": "ac778a94245b5afb",
   "lastOpenFiles": [
-    "Topology.md",
     "How to prove it.md",
+    "Topology.md",
     "Screenshot 2024-02-10 at 13.05.15.png",
     "Screenshot 2024-02-10 at 12.41.52.png",
     "ESC for Brushless DC Motor.md",
