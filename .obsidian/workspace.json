@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum Mechanics for Mathematicians.md",
+                "file": "How to prove it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum Mechanics for Mathematicians.md",
+                "file": "How to prove it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum Mechanics for Mathematicians.md"
+                "file": "How to prove it.md"
               }
             }
           }
@@ -222,8 +221,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ac778a94245b5afb",
+  "active": "1b5d50f4ae0a68a3",
   "lastOpenFiles": [
+    "Quantum Mechanics for Mathematicians.md",
     "How to prove it.md",
     "Topology.md",
     "Screenshot 2024-02-10 at 13.05.15.png",
@@ -232,7 +232,6 @@
     "Reinforcement Learning.md",
     "GFF by Powell. E..md",
     "Gaussian Free Fields.md",
-    "Quantum Mechanics for Mathematicians.md",
     "MCU STM32.md",
     "Stochastic Thermodynamics.md",
     "MT4007 HT23/Lecture 11 Project Exam.md",

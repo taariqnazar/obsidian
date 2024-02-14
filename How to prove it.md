@@ -233,5 +233,16 @@ We can interpret minimal inte following way:
 	 2. Suppose $b$ is the smallest element in $B$. Then $b$ is also minimal element of $B$, and it is the only minimal element.
 	 3. If $R$ is a total order and $b$ is a minimal element of $B$, then $b$ is the smallest element of $B$.
   
+We can define the maximal and largest element of a partially ordered set in a similar manner as for minimal and smallest but interchanging $x$ and $b$. 
+
+**Definition**
+	Suppose $R$ is a partial order on $A$, $B \subseteq A$, and $a \in A$. Then $a$ is called a *lower bound* for $B$ if $\forall x \in B(aRx)$. Similarly, it is an *upper bound* for $B$ if $\forall x \in B(xRa)$.
+
+Difference between smallest/largest and upper/lower bound is that in the latter case the element does not need to be a part of the set.
+
+**Definition**
+	 Suppose $R$ is a partial order on $A$ and $B \subseteq A$. Let $U$ be the set of all upper bounds for $B$, and let $L$ be the set of all lower bounds. If $U$ has a smallest element, then this smallest element is called the *least upper bound* of $B$. If $L$ har the largest element, then this largest element is called the *greatest lower bound* of $B$. These can be shortened to *l.u.b* and *g.l.b*.
  
- 
+**Theorem**
+	Suppose $A$ is a set, $\mathcal{F} \subseteq \mathcal{P}(A)$, and $\mathcal{F} \neq \varnothing$. Then the least upper bound of $\mathcal{F}$(in the subset partial order) is $\cup \mathcal{F}$ and the greatest lower bound of $\mathcal{F}$ is $\cap \mathcal{F}$.
+
