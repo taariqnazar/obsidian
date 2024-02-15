@@ -132,3 +132,5 @@ What is partial observability?
 On-policy distribution: In some sense a distribution of how important we find a state. It is used to calculate the Mean Square Value Error VE. Typically, it is chosen to be the amount of time spent in a state. 
 
 State aggregation, i.e grouping states.
+
+Memory based function approximation is a non-parametric method, where one stores data and queries data in the vicinity for instance to computed the value for the given state. 
