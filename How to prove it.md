@@ -245,4 +245,3 @@ Difference between smallest/largest and upper/lower bound is that in the latter 
  
 **Theorem**
 	Suppose $A$ is a set, $\mathcal{F} \subseteq \mathcal{P}(A)$, and $\mathcal{F} \neq \varnothing$. Then the least upper bound of $\mathcal{F}$(in the subset partial order) is $\cup \mathcal{F}$ and the greatest lower bound of $\mathcal{F}$ is $\cap \mathcal{F}$.
-

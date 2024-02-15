@@ -121,3 +121,8 @@ afterstate: tic-tac-toe example. This is how we should deal with games that can 
 A in between of TD and MC methods. Instead of a single step(TD) or the full episode(MC), an update based on a few more steps, n-steps say, may be better. That is precisely what n-step bootstrapping is. This somehow connects to *eligibility traces*. 
 
 
+# Approximation Methods
+
+The goal is to approximate functions, using a suitable function approximation technique. 
+
+Now the approximate function is parametrised by some weight $\theta $. An estimate can be written as $\hat{v}(s; \theta ) \approx v_{\pi}(s)$. This can be any parametrised approximate function.
