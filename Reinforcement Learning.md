@@ -126,3 +126,9 @@ A in between of TD and MC methods. Instead of a single step(TD) or the full epis
 The goal is to approximate functions, using a suitable function approximation technique. 
 
 Now the approximate function is parametrised by some weight $\theta $. An estimate can be written as $\hat{v}(s; \theta ) \approx v_{\pi}(s)$. This can be any parametrised approximate function.
+
+What is partial observability?
+
+On-policy distribution: In some sense a distribution of how important we find a state. It is used to calculate the Mean Square Value Error VE. Typically, it is chosen to be the amount of time spent in a state. 
+
+State aggregation, i.e grouping states.
