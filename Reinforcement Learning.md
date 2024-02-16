@@ -150,3 +150,6 @@ $\lambda$-return $G_{t}^{\lambda} = (1-\lambda) \sum_{n=1}^{\infty} \lambda^{n-1
 TD($\lambda$) stores a vector $z_{t}=\gamma \lambda z_{t-1} + \nabla \hat{v}(S_{t}, \theta_{t})$ called the **eligibility trace**, which tracks how much each weight have contributed to the recent state valuations, where recent is defined in terms of $\gamma \lambda$. Then, the parameters $\theta_{t}$ should instead be updated using the eligibility trace rather than the gradient vector. That is, $w_{t+1} = w_{t} + \alpha \delta_{t}z_{t}$. Basically, weighting the gradient to also update previous stuff. "Shouting back the return from the current update".
 
 # Policy Gradient Methods
+In previous methods, the policy has always been based on the action-value function. However, with policy gradients the idea is to create a parametrised policy that learns to take actions without consulting with an action-value function. Note that, one can also use an estimated action value function to update the parameters of the policy. If both policy and action-value is being estimated we call it an *actor-critic*.
+
+REINFORCE policy gradient algorithm.
