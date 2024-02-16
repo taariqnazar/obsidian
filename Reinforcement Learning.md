@@ -133,4 +133,7 @@ On-policy distribution: In some sense a distribution of how important we find a 
 
 State aggregation, i.e grouping states.
 
-Memory based function approximation is a non-parametric method, where one stores data and queries data in the vicinity for instance to computed the value for the given state. 
+Memory based function approximation is a non-parametric method, where one stores data and queries data in the vicinity for instance to computed the value for the given state. We can use kernel method to describe how much $s'$ influences the query state $s$ by the kernel $k(s,s')$.
+
+Kernel trick?? Express a kernel as a dot product of features??
+
