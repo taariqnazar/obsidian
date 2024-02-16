@@ -140,3 +140,13 @@ Kernel trick?? Express a kernel as a dot product of features??
 Can the average reward setting be applied to approximate episodic tasks?
 
 # Eligibility Traces
+Eligibility traces generalise the RL methods seen so far. We denote it by $TD(\lambda)$, where $\lambda \in [0,1]$, where MC methods are at one end of the spectrum $\lambda=1$ and on the other side of the spectrum we have the one step $TD$ methods at the other $\lambda=0$.
+
+The idea of the eligibility trace is to average over valid returns $G_{t:t+n}$. For instance one can instead us the average $\frac{1}{2}G_{t:t+2} + \frac{1}{2}G_{t:t+4}$. This introduces a whole set of new algorithms. We can even mix in DP.
+TD($\lambda$) is a particular of averaging in this manner.
+
+$\lambda$-return $G_{t}^{\lambda} = (1-\lambda) \sum_{n=1}^{\infty} \lambda^{n-1}G_{t:t+n}$. So averaged to one in some sense.
+
+TD($\lambda$) stores a vector $z_{t}=\gamma \lambda z_{t-1} + \nabla \hat{v}(S_{t}, \theta_{t})$ called the **eligibility trace**, which tracks how much each weight have contributed to the recent state valuations, where recent is defined in terms of $\gamma \lambda$. Then, the parameters $\theta_{t}$ should instead be updated using the eligibility trace rather than the gradient vector. That is, $w_{t+1} = w_{t} + \alpha \delta_{t}z_{t}$. Basically, weighting the gradient to also update previous stuff. "Shouting back the return from the current update".
+
+# Policy Gradient Methods
