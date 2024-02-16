@@ -137,3 +137,6 @@ Memory based function approximation is a non-parametric method, where one stores
 
 Kernel trick?? Express a kernel as a dot product of features??
 
+Can the average reward setting be applied to approximate episodic tasks?
+
+# Eligibility Traces
