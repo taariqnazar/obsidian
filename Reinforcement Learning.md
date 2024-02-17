@@ -156,3 +156,4 @@ REINFORCE policy gradient algorithm. From the policy gradient theorem, we can si
 $$
 \theta_{t+1} = \theta_{t} + \alpha G_{t} \frac{\nabla \pi(A_{t}|S_{t}; \theta_{t})}{\pi(A_{t}|S_{t}; \theta_{t})}
 $$
+Here, $G_{t}$ is the full return. Which makes this only suitable for episodic tasks and is and MC Method
