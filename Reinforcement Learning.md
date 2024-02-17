@@ -152,4 +152,7 @@ TD($\lambda$) stores a vector $z_{t}=\gamma \lambda z_{t-1} + \nabla \hat{v}(S_{
 # Policy Gradient Methods
 In previous methods, the policy has always been based on the action-value function. However, with policy gradients the idea is to create a parametrised policy that learns to take actions without consulting with an action-value function. Note that, one can also use an estimated action value function to update the parameters of the policy. If both policy and action-value is being estimated we call it an *actor-critic*.
 
-REINFORCE policy gradient algorithm.
+REINFORCE policy gradient algorithm. From the policy gradient theorem, we can simplify the gradient to its stochastic version. That is;
+$$
+\theta_{t+1} = \theta_{t} + \alpha G_{t} \frac{\nabla \pi(A_{t}|S_{t}; \theta_{t})}{\pi(A_{t}|S_{t}; \theta_{t})}
+$$
