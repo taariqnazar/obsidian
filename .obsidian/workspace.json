@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning.md",
+                "file": "How to prove it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning.md",
+                "file": "How to prove it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning.md"
+                "file": "How to prove it.md"
               }
             }
           }
@@ -161,13 +160,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ba63432b91b76709",
+  "active": "1b5d50f4ae0a68a3",
   "lastOpenFiles": [
+    "Reinforcement Learning.md",
     "How to prove it.md",
     "Gaussian Free Fields.md",
     "MCU STM32.md",
     "GFF by Powell. E..md",
-    "Reinforcement Learning.md",
     "Quantum Mechanics for Mathematicians.md",
     "ESC for Brushless DC Motor.md",
     "Topology.md",
