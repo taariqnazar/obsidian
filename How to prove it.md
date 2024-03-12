@@ -245,3 +245,24 @@ Difference between smallest/largest and upper/lower bound is that in the latter 
  
 **Theorem**
 	Suppose $A$ is a set, $\mathcal{F} \subseteq \mathcal{P}(A)$, and $\mathcal{F} \neq \varnothing$. Then the least upper bound of $\mathcal{F}$(in the subset partial order) is $\cup \mathcal{F}$ and the greatest lower bound of $\mathcal{F}$ is $\cap \mathcal{F}$.
+
+**Definition**
+	Suppose $R$ is a relation on a set $A$. Then $R$ is called an *equivalence relation on* $A$ (or jus and *equivalence relation* if $A$ is clear from context) if it is reflexive, symmetric, transitive.
+
+**Definition**
+	Suppose $A$ is a set and $\mathcal{F} \subseteq \mathcal{P}(A)$. We will say that $\mathcal{F}$ is *pairwise disjoint* if every pair of distinct elements of $\mathcal{F}$ are disjoint, or in other words $\forall X \in \mathcal{F} \forall Y \in \mathcal{F}(X \neq Y \rightarrow X \cap Y = \emptyset)$. $\mathcal{F}$ is called a *partition* of $A$ if it has the following properties:
+	1) $\cup \mathcal{F} = A$
+	2) $\mathcal{F}$ is pairwise disjoint.
+	3) $\forall X \in \mathcal{F}(X \neq \emptyset)$.
+
+**Definition**
+	Suppose $R$ is an equivalence relation on a set A, and $x \in A$. Then the *equivalence class of $x$ with respect to $R$* is the set 
+	$$
+[x]_{R} = \{ y \in A | yRx \}.
+$$ The set of all equivalence classes of elements of $A$ is called *$A$ modulo $R$*, and is denoted $A/R$. Thus 
+	$$
+A / R = \{ [x]_{R} |x \in  A\} = \{ X \subseteq A | \exists x \in  A(X = [x]_{R}) \}
+$$
+
+**Theorem**
+	Suppose $R$ is an equivalence relation on a set $A$. Then $A / R$ is a partition of $A$.
