@@ -269,3 +269,4 @@ $$
 
 **Theorem**
 	Suppose $A$ is a set and $\mathcal{F}$ is a partition of $A$. Then there is an equivalence relation $R$ on $A$ such that $A /R = \mathcal{F}$.
+
