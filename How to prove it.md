@@ -270,3 +270,13 @@ $$
 **Theorem**
 	Suppose $A$ is a set and $\mathcal{F}$ is a partition of $A$. Then there is an equivalence relation $R$ on $A$ such that $A /R = \mathcal{F}$.
 
+# Chapter 5
+
+**Definition** 
+	Suppose $F$ is a relation from $A$ to $B$. Then $F$ is called a *function from* $A$ to $B$ if for every $a \in A$ there is exactly one $b \in B$ such that $(a,b) \in F$. In other words, to say that $F$ is a function from $A$ to $B$ means:
+	$$
+	\forall a \in  A \exists !b\in B((a,b) \in  F).
+	$$
+	We write $F: A \rightarrow B$
+
+Instead of writing $(a,b) \in f$ we can also write $f(a) = b$.
