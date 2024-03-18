@@ -280,3 +280,9 @@ $$
 	We write $F: A \rightarrow B$
 
 Instead of writing $(a,b) \in f$ we can also write $f(a) = b$.
+
+**Theorem**
+	Suppose $f$ and $g$ are function from $A$ to $B$. If $\forall a \in A(f(a)=g(a)))$, then $f=g$.
+
+**Theorem** 
+	Suppose $f: A \to B$ and $g: B \to C$. Then $g \circ f: A \to C$, and for any $a \in A$, the value of $g \circ f$ at $a$ is given by the formula $(g \circ f)(a) = g(f(a))$.
