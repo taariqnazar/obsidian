@@ -286,3 +286,49 @@ Instead of writing $(a,b) \in f$ we can also write $f(a) = b$.
 
 **Theorem** 
 	Suppose $f: A \to B$ and $g: B \to C$. Then $g \circ f: A \to C$, and for any $a \in A$, the value of $g \circ f$ at $a$ is given by the formula $(g \circ f)(a) = g(f(a))$.
+
+**Definition**
+	Suppose $f: A \to B$. We will say that $f$ is *one-to-one* (Injection) if $$
+\neg \exists a_{1} \in  A \exists a_{2}\in A(f(a_{1}) = f(a_{2}) \wedge a_{1} \neq a_{2})
+$$
+	We say that $f$ *maps onto*(surjection) $B$ if $$
+\forall b \in  B \exists a \in  A(f(a)=f(b)).
+$$
+
+**Theorem**
+	1. $f$ is one-to-one iff $\forall a_{1} \in A \forall a_{2} \in A(f(a_{1}) = f(a_{2}) \to a_{1}= a_{2})$.
+	2. $f$ is onto iff $Ran(f) = B$
+
+
+**Theorem**
+	Suppose $f: A \to B$ and $g: B \to C$. It follows that
+	1. if $f$ and $g$ are both one-to-one, then so is $g \circ f$.
+	2. if $f$ and $g$ are both onto, the so is $g \circ f$.
+
+Functions that are both one-to-one and onto are called *bijections*.
+
+**Theorem**
+	Suppose $f: A \rightarrow B$. If $f$ is a *bijection*, then $f^{-1}: B \rightarrow A$.
+
+**Theorem**
+	Suppose $f$ is a function from $A$ to $B$ , and suppose $f^{-1}$ is a function from $B$ to $A$. Then $f \circ f^{-1} = i_{B}$ and $f^{-1} \circ f = i_{A}$.
+
+**Theorem**
+	Suppose $f: A \rightarrow B$
+	1. If there is a function $g: B \rightarrow A$ such that $g \circ f = i_{A}$ then $f$ is one-to-one.
+	2. If there is a function $g: B \rightarrow A$ such that $f \circ g = i_{B}$ then $f$ is onto.
+
+**Theorem**
+	Suppose $f: A \rightarrow B$. Then the following statements are equivalent.
+	1. $f$ is one-to-one and onto.
+	2. $f^{-1}: B \rightarrow A$.
+	3. There is a function $g: B \rightarrow A$ such that $g \circ f = i_{A}$ and $f \circ g = i_{B}$.
+
+**Theorem**
+	Suppose $f: A \rightarrow B$, $g: B \rightarrow A$, $g \circ f = i_{A}$ and $f \circ g = i_{B}$. Then $g=f^{-1}$.
+
+**Definition**
+	Suppose $f: A \rightarrow A$ and $C \subseteq A$. We will say that $C$ is closed under $f$ if $\forall x \in C (f(x) \in C)$.
+
+**Definition**
+	
