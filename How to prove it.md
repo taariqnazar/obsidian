@@ -247,7 +247,7 @@ Difference between smallest/largest and upper/lower bound is that in the latter 
 	Suppose $A$ is a set, $\mathcal{F} \subseteq \mathcal{P}(A)$, and $\mathcal{F} \neq \varnothing$. Then the least upper bound of $\mathcal{F}$(in the subset partial order) is $\cup \mathcal{F}$ and the greatest lower bound of $\mathcal{F}$ is $\cap \mathcal{F}$.
 
 **Definition**
-	Suppose $R$ is a relation on a set $A$. Then $R$ is called an *equivalence relation on* $A$ (or jus and *equivalence relation* if $A$ is clear from context) if it is reflexive, symmetric, transitive.
+	Suppose $R$ is a relation on a set $A$. Then $R$ is called an *equivalence relation on* $A$ (or just and *equivalence relation* if $A$ is clear from context) if it is reflexive, symmetric, transitive.
 
 **Definition**
 	Suppose $A$ is a set and $\mathcal{F} \subseteq \mathcal{P}(A)$. We will say that $\mathcal{F}$ is *pairwise disjoint* if every pair of distinct elements of $\mathcal{F}$ are disjoint, or in other words $\forall X \in \mathcal{F} \forall Y \in \mathcal{F}(X \neq Y \rightarrow X \cap Y = \emptyset)$. $\mathcal{F}$ is called a *partition* of $A$ if it has the following properties:
@@ -330,4 +330,20 @@ Functions that are both one-to-one and onto are called *bijections*.
 	Suppose $f: A \rightarrow A$ and $C \subseteq A$. We will say that $C$ is closed under $f$ if $\forall x \in C (f(x) \in C)$.
 
 **Definition**
-	Suppose $f: A \rightarrow A$ and $B \subseteq A$.
+	Suppose $f: A \rightarrow A$ and $B \subseteq A$. Then the *closure* of $B$ under $f$ is the smallest set $C \subseteq A$ such that $B \subseteq C$ and $C$ is closed under $f$, if there is such a smallest set. In other words, a set $C \subseteq A$ is the closure of $B$ under $f$ if it has the following properties:
+	1. $B \subseteq C$.
+	2. $C$ is closed under $f$.
+	3. For every set $D \subseteq A$, if $B \subseteq D$ and $D$ is closed under $f$ then $C \subseteq D$.
+
+For functions of two or more variables
+**Definition**
+	Suppose $f: A \times A \rightarrow A$ and $C \subseteq A$. We will say that $C$ is *closed under* $f$ if $\forall x \in C \forall y \in C (f(x,y) \in C$.
+
+**Definition**
+	Suppose $f: A \times A \rightarrow A$ and $B \subseteq A$. Then the *closure of $B$ under $f$* is the smallest set $C \subseteq A$ such that $B \subseteq C$ and $C$ is closed under $f$, if there is a such smallest set. In other words, a set $C \subseteq A$ is the closure of $B$ under $f$ if it has the following properties:
+	1. $B \subseteq C$.
+	2. $C$ is closed under $f$.
+	3. For every set $D \subseteq A$, if $B \subseteq D$ and $D$ is closed under $f$ then $C \subseteq D$.
+
+**Theorem**
+	Suppose that $f: A \times A \rightarrow A$ and $B \subseteq A$. Then $B$ has a closure under $f$.
