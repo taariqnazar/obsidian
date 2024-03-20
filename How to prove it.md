@@ -294,7 +294,6 @@ $$
 	We say that $f$ *maps onto*(surjection) $B$ if $$
 \forall b \in  B \exists a \in  A(f(a)=f(b)).
 $$
-
 **Theorem**
 	1. $f$ is one-to-one iff $\forall a_{1} \in A \forall a_{2} \in A(f(a_{1}) = f(a_{2}) \to a_{1}= a_{2})$.
 	2. $f$ is onto iff $Ran(f) = B$
@@ -331,4 +330,4 @@ Functions that are both one-to-one and onto are called *bijections*.
 	Suppose $f: A \rightarrow A$ and $C \subseteq A$. We will say that $C$ is closed under $f$ if $\forall x \in C (f(x) \in C)$.
 
 **Definition**
-	
+	Suppose $f: A \rightarrow A$ and $B \subseteq A$.
