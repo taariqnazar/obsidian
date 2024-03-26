@@ -292,7 +292,7 @@ Instead of writing $(a,b) \in f$ we can also write $f(a) = b$.
 \neg \exists a_{1} \in  A \exists a_{2}\in A(f(a_{1}) = f(a_{2}) \wedge a_{1} \neq a_{2})
 $$
 	We say that $f$ *maps onto*(surjection) $B$ if $$
-\forall b \in  B \exists a \in  A(f(a)=f(b)).
+\forall b \in  B \exists a \in  A(f(a)=b).
 $$
 **Theorem**
 	1. $f$ is one-to-one iff $\forall a_{1} \in A \forall a_{2} \in A(f(a_{1}) = f(a_{2}) \to a_{1}= a_{2})$.
@@ -347,3 +347,14 @@ For functions of two or more variables
 
 **Theorem**
 	Suppose that $f: A \times A \rightarrow A$ and $B \subseteq A$. Then $B$ has a closure under $f$.
+
+**Definition**
+	Suppose $f: A \rightarrow B$ and $X \subseteq A$. Then the *image* of $X$ under $f$ is the set $f(X)$ defined as follows:
+	$$
+f(X) = \{ f(x) | x \in  X \} = \{ b \in  B | \exists x \in  X(f(x)=b) \}.
+$$
+	The *inverse image* of $Y$ under $f$ is the set $f^-1 (Y)$ defined as $$
+f^-1(Y) = \{a \in  A| f(a) \in  Y\}.
+$$
+
+
