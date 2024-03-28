@@ -358,3 +358,9 @@ f^-1(Y) = \{a \in  A| f(a) \in  Y\}.
 $$
 
 
+# Chapter 6 (Mathematical Induction)
+
+**To prove a goal of the form $\forall n \in \mathbb{N} P(n)$**
+	First prove $P(0)$, and then prove $\forall n \in \mathbb{N} (P(n) \rightarrow P(n+1)$). The first of these proofs is sometimes called the *base case* and the second the *induction step*.
+
+
