@@ -367,4 +367,5 @@ $$
 **(Strong Induction) To prove goal of the form $\forall n \in \mathbb{N} P(n):$**
 	Prove that $\forall n \left[ (\forall k < n P(k) \rightarrow P(n) \right]$, where both $n$ and $k$ range over the natural numbers in this statement. Of course, the most direct way to prove this is to let $n$ be an arbitrary natural number, assume that $\forall k < N P(k)$, and then prove $P(n)$.
 
+# Chapter 7 (Number Theory)
 
