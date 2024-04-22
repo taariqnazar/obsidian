@@ -368,4 +368,6 @@ $$
 	Prove that $\forall n \left[ (\forall k < n P(k) \rightarrow P(n) \right]$, where both $n$ and $k$ range over the natural numbers in this statement. Of course, the most direct way to prove this is to let $n$ be an arbitrary natural number, assume that $\forall k < N P(k)$, and then prove $P(n)$.
 
 # Chapter 7 (Number Theory)
+**Theorem (Fundamental theorem of arithmetic)**:
+	For every integer $n > 1$ there are unique prime numbers $p_{1},p_{2},\dots, p_{k}$ such that $p_{1} \leq p_{2}\leq \dots p_{k}$ and $n=p_{1}p_{2}\cdots p_{k}$.
 
