@@ -371,3 +371,14 @@ $$
 **Theorem (Fundamental theorem of arithmetic)**:
 	For every integer $n > 1$ there are unique prime numbers $p_{1},p_{2},\dots, p_{k}$ such that $p_{1} \leq p_{2}\leq \dots p_{k}$ and $n=p_{1}p_{2}\cdots p_{k}$.
 
+**Definition (Euler's phi/totient function):**
+	*Euler's phi/totient function* $\phi(m)$  counts the number of elements in $\mathbb{Z} / m \mathbb{Z}$ that have multiplicative inverses.
+	$$
+\phi (m) = \text{the number of elements in } \{ a | 1 \leq a \leq m \text{ and } gcd(m,a)=1\}
+$$
+
+**Theorem (Euler's Theorem)**:
+	Suppose $m$ is a positive integer. Then for every positive integer $a$, if $gcd(m.a)=1$ then $a^{\phi(m)} \equiv 1 (mod \;m)$. 
+
+**Theorem:**
+	Suppose $m$ and $n$ are relatively prime positive integers. Then $\phi(mn) = \phi(m)\phi(n)$
