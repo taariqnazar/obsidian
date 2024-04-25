@@ -382,3 +382,39 @@ $$
 
 **Theorem:**
 	Suppose $m$ and $n$ are relatively prime positive integers. Then $\phi(mn) = \phi(m)\phi(n)$
+
+# Chapter 8 (Infinite Sets)
+
+**Definition:**
+	Suppose $A$ and $B$ are sets. We'll say that $A$ is *equinumerous* with $B$ if there is a function $f : A \rightarrow B$ that is one-to-one and onto. We'll write $A \sim B$ to indicate that $A$ is equinumerous with $B$. For each natural number $n$, let $I_{n} = \{ i \in \mathbb{Z}^+ | i \leq n \}$. A set $A$ is called *finite* if there is a natural number $n$ such that $I_{n} \sim A$. Otherwise, $A$ is infinite.
+
+**Theorem**:
+	Suppose $A \sim B$ and $C \sim D$. Then:
+		1. $A \times C \sim  B  times D$.
+		2. If $A$ and $C$ are disjoint and $B$ and $D$ are disjoint, then $A \cup C \sim B \cup D$.
+
+**Theorem**: For any sets $A, B$ and $C$:
+	1. $A \sim A$.
+	2. if $A \sim  B$ then $B \sim A$.
+	3. if $A \sim B$ and $B \sim C$ then $A \sim C$.
+
+**Definition**:
+	A set $A$ is called *denumeranle* if $\mathbb{Z}^+ \sim A$ . It is called *countable* if it is either finite or denumerable. Otherwise, it is uncountable.
+
+**Theorem**: Suppose $A$ is a set. The following statements are equivalent:
+	1. $A$ is countable.
+	2. Either $A = \emptyset$ or there is a function $f: \mathbb{Z}^+ \rightarrow A$ that is onto.
+	3. There is a function $f: A \rightarrow \mathbb{Z}^+$ that is one-to-one.
+
+**Theorem**: Suppose $A$ and $B$ are countable sets. Then:
+	1. $A \times B$ is countable.
+	2. $A \cup B$ is countable.
+
+**Theorem**
+	The union of countably man countable sets is countable. In other words, if $\mathcal{F}$ is a family of sets, $\mathcal{F}$ is countable and also every element of $\mathcal{F}$ is countable, then $\cup \mathcal{F}$ is countable.
+
+**Definition**: 
+	Suppose $A$ is a set. A function $f: I_{n} \rightarrow A$, where $n$ is a natural number, is called a *finite sequence* of elements of $A$, and $n$ is called the *length* of the sequence.
+
+**Theorem**:
+	Suppose $A$ is a countable set. Then the set of all finite sequences of elements of $A$ is also countable.
