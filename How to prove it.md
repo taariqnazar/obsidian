@@ -418,3 +418,13 @@ $$
 
 **Theorem**:
 	Suppose $A$ is a countable set. Then the set of all finite sequences of elements of $A$ is also countable.
+
+**Definition**:
+	If $A$ and $B$ are sets, then we will say that $B$ *dominates* $A$, and write $A \lesssim B$, if there is a function $f: A \rightarrow B$ that is one-to-one. If $A \lesssim B$ and $A \not\sim B$, then we say that $B$ strictly dominates $A$, and write $A<B$.
+
+**Theorem (Cantor-Schröder-Bernstein)**
+	Suppose $A$ and $B$ are sets. if $A \lesssim B$ and $B \lesssim A$, then $A \sim B$.
+
+**Theorem**
+	$\mathbb{R} \sim \mathcal{P}(\mathbb{Z}^+)$.
+	
