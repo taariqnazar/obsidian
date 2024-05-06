@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56b7537037906eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hajj & Umrah.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to prove it.md",
+                "file": "Hajj & Umrah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to prove it.md",
+                "file": "Hajj & Umrah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to prove it.md"
+                "file": "Hajj & Umrah.md"
               }
             }
           }
@@ -149,10 +162,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1b5d50f4ae0a68a3",
+  "active": "56b7537037906eb1",
   "lastOpenFiles": [
-    "Reinforcement Learning.md",
+    "Hajj & Umrah.md",
     "How to prove it.md",
+    "Reinforcement Learning.md",
     "Gaussian Free Fields.md",
     "MCU STM32.md",
     "GFF by Powell. E..md",
@@ -184,7 +198,6 @@
     "MT4007 HT23/img/gitignore.png",
     "MT4007 HT23/Project.md",
     "MT4007 HT23/Homework 1.md",
-    "MT4007 HT23/Lecture 2.md",
     "homework",
     "Untitled.canvas",
     "export/Lecture 1 Slide/plugin/chalkboard/_style.css",
