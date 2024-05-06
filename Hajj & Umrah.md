@@ -2,6 +2,7 @@ Vi ska göra **Hajj Tammatu**. Vilket innebär att vi börjar med att göra [Umr
 
 - Vad behöver man för ihram? Vad bryter Ihram för män och kvinnor?
 - Behöver man gå tillbaka till miqat för att göra ihram för hajj?
+- Kan jag ha beknar väska? Vad får jag och får jag inte ha?
 ## Umrah 
 
 - Hur utför man Umrah? 
