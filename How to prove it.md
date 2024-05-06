@@ -427,4 +427,3 @@ $$
 
 **Theorem**
 	$\mathbb{R} \sim \mathcal{P}(\mathbb{Z}^+)$.
-	
