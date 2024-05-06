@@ -29,6 +29,8 @@ Man ska sedan åka till staden *Mina* och man ska vila där till nästa dag det 
 ***Steg 3 Mina till Arafat:**
 På morgonen av den 9e Dhul-Hijjah, ska man börja gå mot Arafat och på vägen dit ska man man säga Talbiyah kontinuerligt. Här ska man slå ihop och förkorta bönerna. 
 
+Väldigt viktig dag att göra Dua. De säger att Arafat dagen är Hajj.
+
 **Steg 4 Muzdalifah** 
 Närmare eftermiddagen av 9e Dhul-Hijjah ska man gå mot Muzdalifah, en liten stad mellan Mina och Arafat. Man ska vara här lite innan solnedgång och be Maghrib och Isha här tillsammans. Här ska man samla 49 stenar som är ungefär lika stora som kikärtor och även spendera natten under himlen, alltså sova ute. Man går härifrån på morgonen av 10e Dhul-Hijjah.
 
