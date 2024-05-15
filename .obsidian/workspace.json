@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b3e79ff55686930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hajj & Umrah.md",
+                "file": "Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hajj & Umrah.md",
+                "file": "Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hajj & Umrah.md"
+                "file": "Reinforcement Learning.md"
               }
             }
           }
@@ -162,7 +174,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "56b7537037906eb1",
+  "active": "2b3e79ff55686930",
   "lastOpenFiles": [
     "Hajj & Umrah.md",
     "How to prove it.md",
