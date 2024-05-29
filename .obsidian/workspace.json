@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2b3e79ff55686930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning.md",
+                "file": "Hajj & Umrah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning.md",
+                "file": "Hajj & Umrah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning.md"
+                "file": "Hajj & Umrah.md"
               }
             }
           }
@@ -174,11 +162,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2b3e79ff55686930",
+  "active": "56b7537037906eb1",
   "lastOpenFiles": [
+    "Reinforcement Learning.md",
     "Hajj & Umrah.md",
     "How to prove it.md",
-    "Reinforcement Learning.md",
     "Gaussian Free Fields.md",
     "MCU STM32.md",
     "GFF by Powell. E..md",
